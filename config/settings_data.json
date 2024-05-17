@@ -1,5 +1,6 @@
 {
   "current": {
+    "checkout_logo_image": "shopify:\/\/shop_images\/Balance7.webp",
     "icon_stroke_width": 1,
     "section_vertical_spacing": "md",
     "button_border_radius": 6,
@@ -42,101 +43,6 @@
     "social_tiktok": "https:\/\/www.tiktok.com\/@balance7_ph11",
     "social_linkedin": "https:\/\/www.linkedin.com\/company\/balance7supplement\/",
     "favicon": "shopify:\/\/shop_images\/Balance7.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Balance7.webp",
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "12120936241911852800": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": true,
-        "settings": {
-          "position": "right"
-        }
-      },
-      "17151115064775110295": {
-        "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/recharge-theme\/371eed76-0b44-4869-9813-730372ea378e",
-        "disabled": false,
-        "settings": {
-          "color_brand": "#467C99",
-          "contrast_color": "#FFFFFF",
-          "color_brand_secondary": "#467C99",
-          "corners": "8px",
-          "app_background": "#f9f8f4",
-          "app_container": 1200,
-          "app_vertical_padding": 32,
-          "images_aspect_ratio": "1",
-          "cards_background": "#FFFFFF",
-          "cards_border_color": "rgba(0,0,0,0)"
-        }
-      },
-      "1369284949797581044": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/collection-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "15154131639906026026": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/broken-link-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11089864892113081655": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/website-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1360768219604461044": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/store-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14971748854670876780": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/product-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11104565113590962351": {
-        "type": "shopify:\/\/apps\/tinyimg-seo-speed\/blocks\/article-json-ld-embed\/0605268f-f7c4-4e95-b560-e43df7d59ae4",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17368511000352060744": {
-        "type": "shopify:\/\/apps\/goaffpro-affiliate-marketing\/blocks\/goaffpro-embedded-pixel\/2f4d802b-86c2-47e4-8096-ae1aa3efbab2",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14525323432300780132": {
-        "type": "shopify:\/\/apps\/amazon-importer-spreadr-app\/blocks\/app-embed\/8ec7bd1c-ef5e-4a26-b758-738a3a1b3e0b",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "5017882195547572635": {
-        "type": "shopify:\/\/apps\/sc-easy-redirects\/blocks\/app\/be3f8dbd-5d43-46b4-ba43-2d65046054c2",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "14230651041339252739": {
-        "type": "shopify:\/\/apps\/sc-easy-redirects\/blocks\/app_404\/be3f8dbd-5d43-46b4-ba43-2d65046054c2",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -248,7 +154,10 @@
           "circle_button_icon": "#770809"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Allure": {

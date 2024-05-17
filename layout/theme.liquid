@@ -69,6 +69,7 @@
     {%- if tinyscript -%}{{ content_for_header }}{%- else -%}{% render 'tiny-script-control' %}{%- endif -%}
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
+    {{- 'custom.css' | asset_url | stylesheet_tag: preload: true -}}
 
 {% if collection.id == 296072839333  %}
 <script type="application/ld+json">
