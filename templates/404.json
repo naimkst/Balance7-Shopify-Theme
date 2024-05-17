@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "link": ""
+      }
+    },
+    "featured_product_8UfGDC": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Bcrjw9": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_3yCFhp": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_naLF44": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_cqtBEW": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_Lkmq8h": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_jEBakf": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_HYXhPQ": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_N4kKjp": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_AnqMng": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "dropdown",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_tGdUPQ": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_RWi9Bh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ttDDXH": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_Bcrjw9",
+        "title_3yCFhp",
+        "badges_naLF44",
+        "price_cqtBEW",
+        "rating_Lkmq8h",
+        "payment_terms_jEBakf",
+        "separator_HYXhPQ",
+        "description_N4kKjp",
+        "variant_picker_AnqMng",
+        "quantity_selector_tGdUPQ",
+        "buy_buttons_RWi9Bh",
+        "pickup_availability_ttDDXH"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "product": "balance7-alkaline-liquid-supplement",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Balance7 Alkaline Liquid Supplement",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "featured_product_8UfGDC"
+  ]
+}

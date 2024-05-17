@@ -1,0 +1,1031 @@
+{
+  "sections": {
+    "image_with_text_overlay_8JjBxe": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/balance7_banner_website_1024_x_900_px.png",
+        "mobile_image": "shopify:\/\/shop_images\/balance7_-_new_posts_33.png",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 0
+      }
+    },
+    "featured_product_VgXDwg": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_mRHhqK": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_RHK3qq": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_U3xjdt": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_Q97MVp": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_pB7JqN": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_MfnyRf": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_FcFPnL": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_ELAYK6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_YCUBEm": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_tnzwra": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_NDEbqJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_U9DKD9": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_mRHhqK",
+        "title_RHK3qq",
+        "badges_U3xjdt",
+        "price_Q97MVp",
+        "rating_pB7JqN",
+        "payment_terms_MfnyRf",
+        "separator_FcFPnL",
+        "description_ELAYK6",
+        "variant_picker_YCUBEm",
+        "quantity_selector_tnzwra",
+        "buy_buttons_NDEbqJ",
+        "pickup_availability_U9DKD9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "11-day-starter-kit",
+        "separate_section_with_border": false,
+        "container_size": "full",
+        "product_info_size": 45,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "11-Day Starter Kit",
+        "content": ""
+      }
+    },
+    "171146843022338b52": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_UNWzjK": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_UNWzjK"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "rich_text_FTkEbw": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_T6GVxq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1><strong>11-Day Starter Kit: Your Introduction to Balance7<\/strong><\/h1>"
+          }
+        },
+        "richtext_kAgaFF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>This spring, we’re excited to introduce our <strong>11-Day Starter Kit<\/strong>, a curated selection of Balance7 products designed for anyone looking to experience the transformative health benefits of our alkaline solution at a promotional price.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_T6GVxq",
+        "richtext_kAgaFF"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_mVCmh7": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_Wjckng": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Your 11-Day Kit Includes:<\/h1>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_Wjckng"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "multi_column_PXF4bQ": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_XMTW83": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mokker_5.png",
+            "title": "<strong>Balance7™ (32oz)<\/strong>",
+            "heading_tag": "h4",
+            "content": "<p>Balance7™, is a unique alkaline solution formulated to supercharge your immune system in just three days, setting the foundation for your wellness journey.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_imkn8B": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mokker_15_29280ecb-b6eb-4ac1-9992-12c2eadfba58.png",
+            "title": "<strong>Best Brew™ (4oz)<\/strong>",
+            "heading_tag": "h4",
+            "content": "<p>Complement your daily routine with Best Brew™, a revolutionary addition to coffee that reduces acidity, ensuring every cup is a step towards better health<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_aJUmHj": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mokker_30.png",
+            "title": "<strong>Rapid Response™ (4oz)<\/strong>",
+            "heading_tag": "h4",
+            "content": "<p>Experience immediate relief with Rapid Response™, an all-natural, eco-friendly solution for skin healing, from minor irritations to more serious conditions.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_ipwFCL": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_b1faced1-63ec-4bc6-9f42-d0b108379959.png",
+            "title": "<strong>Exclusive 11-Day Meal Plan (Ebook)<\/strong>",
+            "heading_tag": "h4",
+            "content": "<p>Gain valuable insights into maintaining an alkaline diet and enhancing your wellness routine, directly from Dr. Nooristani.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_XMTW83",
+        "image_with_text_imkn8B",
+        "image_with_text_aJUmHj",
+        "image_with_text_ipwFCL"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 4,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_Hi8pmJ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_KXDw36": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7: Taste Your Health"
+          }
+        },
+        "heading_L78WjC": {
+          "type": "heading",
+          "settings": {
+            "text": "What Does Balance7's Taste Tell You About Your Health?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PYM7M3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
+          }
+        },
+        "button_8xQQY8": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Learn More",
+            "url": "https:\/\/balance7.com\/blogs\/news\/balancing-act",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KXDw36",
+        "heading_L78WjC",
+        "richtext_PYM7M3",
+        "button_8xQQY8"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_ChKcd6": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_F9chcQ": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>11-Day Starter Kit<\/strong>"
+          }
+        },
+        "heading_7b4DqA": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Why Choose the 11-Day Starter Kit?<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3qmKL8": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ul><li><strong>Alkaline Supplements for Proven Results:<\/strong> Dive into the world of alkalinity with Balance7™, a natural solution with a track record of success.<\/li><li><strong>The Only Supplement You'll Ever Need:<\/strong> With over six million bottles enhancing lives worldwide, join the ranks of those who've experienced significant health improvements.<\/li><li><strong>Natural Immune Activation:<\/strong> Balance7™ isn’t just about boosting your immune system; it’s about activating your body’s natural defenses for robust protection against illness.<\/li><li><strong>Beyond Immunity:<\/strong> Discover unexpected benefits such as reduced body odor and cooler body temperature, signs of a body free from imbalance and stress.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_F9chcQ",
+        "heading_7b4DqA",
+        "richtext_3qmKL8"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/Mokker_43.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_HdTmgW": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_kBJeX4": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>11-Day Starter Kit<\/strong>"
+          }
+        },
+        "heading_we4qyC": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Reset and Rejuvenate in Just 11 Days<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_HQq9nC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Resetting your health isn't a luxury; it's a necessity. Dr. Nooristani, with over 15 years in medicine, has seen firsthand the transformative power of Balance7™. This isn't just a diet; it's your pathway to renewal, designed to combat the harmful effects of acidic foods on your body and immune system.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kBJeX4",
+        "heading_we4qyC",
+        "richtext_HQq9nC"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/2_0e702156-7bb5-4911-a6a5-dd92046abe4f.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_KmTYiE": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_JLnMHx": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>11-Day Starter Kit<\/strong>"
+          }
+        },
+        "heading_JbXRAV": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Revitalize Your Health in 11 Days<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_HicUHy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dr. Nooristani's eBook guides you through a tailored low-GI, alkaline diet with Balance7™ and Best Brew™ integration. Choose from easy or sophisticated meals and track your wellness journey. Start transforming your health today.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JLnMHx",
+        "heading_JbXRAV",
+        "richtext_HicUHy"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/1_49dae706-03f0-460f-9f0c-1521b40a26aa.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_PqUBpW": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_CggJKK": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>11-Day Starter Kit<\/strong>"
+          }
+        },
+        "heading_g3thGe": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Track Your Health Progress<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_U3WcPC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use our printable Wellness Tracking Guide to monitor daily changes in energy, sleep, digestion, and more with Balance7™ and Best Brew™. Rate and reflect on your wellness over 11 days to stay motivated and see tangible improvements. Begin your journey to better health now!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CggJKK",
+        "heading_g3thGe",
+        "richtext_U3WcPC"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/5_bb916deb-9036-4e75-a9c1-8b39307d8ab7.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "countdown_A8CJqm": {
+      "type": "countdown",
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Elevate Your Wellness",
+        "title": "11-Day Journey to Wellness Bundle",
+        "content": "<p>Seize this limited opportunity to elevate your well-being with Balance7™.<\/p>",
+        "button_link": "",
+        "button_text": "",
+        "expiration_date": "2024-03-15 12:00",
+        "expiration_behavior": "hide",
+        "timer_position": "start",
+        "animate_number": true,
+        "flip_background": "",
+        "flip_background_opacity": 50,
+        "flip_text_color": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "judge_me_reviews_preview_badge_rHtAfh": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "accordion_igw6nz": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "<strong>Balance7™ (32oz)<\/strong>",
+            "content": "<p><strong>Balance7™ (32oz):<\/strong> Elevate your body's balance with this high-concentrate alkaline supplement, designed to enhance your health journey.<\/p><ul><li><strong>Reduces Inflammation:<\/strong> Alkalizes your body to decrease inflammation for better overall health.<\/li><li><strong>Boosts Immunity:<\/strong> Significantly improves immune function within just three days.<\/li><li><strong>Increases Energy:<\/strong> Provides a surge in vitality and mental clarity.<\/li><li><strong>Supports Well-being:<\/strong> Aids in detoxification and digestion for comprehensive health.<\/li><\/ul><p><strong>Dose:<\/strong> 1 ounce per dose, three doses daily.<\/p><p><strong>Directions:<\/strong> Consume 1 ounce, three times daily, before or after meals.<\/p><p><strong>Ingredients:<\/strong> Hydrogenated Water, Naturally-Mined Trisodium Phosphate (TSP), Naturally-Mined Sodium Carbonate, Naturally-Mined Sodium Bicarbonate.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_PgL8qW": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "<strong>Best Brew™ (4oz)<\/strong>",
+            "content": "<p>A revolutionary coffee enhancer that blends wellness with great taste, neutralizing acidity in your favorite coffee.<\/p><ul><li><strong>Enhances Flavor:<\/strong> Makes coffee smoother and more enjoyable.<\/li><li><strong>Neutralizes Acidity:<\/strong> Reduces your coffee's acidity to align with your health goals.<\/li><li><strong>Healthier Coffee Experience:<\/strong> Offers a healthier alternative to traditional creamers and sugars.<\/li><li><strong>Lifestyle Friendly:<\/strong> Perfect for integrating into a balanced dietary lifestyle.<\/li><\/ul><p><strong>Dose:<\/strong> One squirt per coffee cup.<\/p><p><strong>Directions:<\/strong> Add one squirt to your coffee cup, hot or cold, adjusting to taste.<\/p><p><strong>Ingredients:<\/strong> Hydrogenated Water, Trinatriumphosphat (Anhydrous), Sodium Hydrogen Carbonate.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_V8d8N4": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "<strong>Rapid Response™ (4oz)<\/strong>",
+            "content": "<p>A soothing, eco-friendly wound cleanse that accelerates the healing process, providing instant pain relief for all skin types.<\/p><ul><li><strong>Accelerates Healing:<\/strong> Effective on cuts, burns, and stings, speeding up the healing process.<\/li><li><strong>Instant Pain Relief:<\/strong> Offers immediate relief from discomfort.<\/li><li><strong>Versatile Use:<\/strong> Suitable for a wide range of skin conditions.<\/li><li><strong>Environmentally Safe:<\/strong> Crafted with safe, eco-friendly ingredients.<\/li><\/ul><p><strong>Dose:<\/strong> Apply 3 times per day.<\/p><p><strong>Directions:<\/strong> Spray or lightly wet the affected area 3 times daily, then pat dry. Continue as needed without over-application.<\/p><p><strong>Ingredients:<\/strong> Water, Sodium Phosphate, Citrate.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_gmcGaF": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "<strong>11-Day Meal Plan (Ebook)<\/strong>",
+            "content": "<p>Tailored to enhance your journey to wellness, this eBook blends alkaline and low-GI dietary principles with the strategic use of Balance7™ and Best Brew™. It features dual meal options for simplicity or sophistication, guiding you through a transformative health experience.<\/p><ul><li><strong>Dual Meal Options:<\/strong> Choose from simple, easy-to-follow meals or indulge in creative, sophisticated recipes, all designed to support a low-GI and alkaline diet.<\/li><li><strong>Incorporates Balance7™ and Best Brew™:<\/strong> Seamlessly integrates these supplements into your daily meal plan for enhanced health benefits.<\/li><li><strong>11-Day Transformation:<\/strong> Structured day-by-day guide to rejuvenate your health, with meals and supplements aligned for optimal wellness.<\/li><li><strong>Wellness Tracking:<\/strong> Offers a daily wellness rating chart to monitor progress and the impact of dietary changes on your overall health.<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_rHtAfh",
+        "description",
+        "accordion_igw6nz",
+        "accordion_PgL8qW",
+        "accordion_V8d8N4",
+        "accordion_gmcGaF",
+        "price",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "full",
+        "product_info_size": 60,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_grid_gap": 0,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "rich_text_JfEwEH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_WWUJte": {
+          "type": "subheading",
+          "settings": {
+            "text": "Voices of Transformation: Real Stories from Our Customers"
+          }
+        },
+        "heading_Ee8wAU": {
+          "type": "heading",
+          "settings": {
+            "text": "Real Impact, Real People",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_hUhNhD": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Discover Valerie's journey to recovery from Covid with Balance7's help:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WWUJte",
+        "heading_Ee8wAU",
+        "richtext_hUhNhD"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_Wtdwac": {
+      "type": "video",
+      "blocks": {
+        "play_hizdXj": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_hizdXj"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=qAl6wCaIbNg",
+        "poster": "shopify:\/\/shop_images\/1_56b7dab7-667c-4f3e-821d-5600bbf674b5.png",
+        "text_color": "#ffffff"
+      }
+    },
+    "rich_text_GgcQTP": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_njkfE6": {
+          "type": "subheading",
+          "settings": {
+            "text": "Voices of Transformation: Real Stories from Our Customers"
+          }
+        },
+        "heading_4ynUPH": {
+          "type": "heading",
+          "settings": {
+            "text": "Real Impact, Real People",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_pMyar3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7™ was Mooney's Miracle, Diagnosed with stage 4 cancer. Today cancer free!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_njkfE6",
+        "heading_4ynUPH",
+        "richtext_pMyar3"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_i7k4mk": {
+      "type": "video",
+      "blocks": {
+        "play_wnQ4cg": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_wnQ4cg"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=hD2bgb6IerA",
+        "poster": "shopify:\/\/shop_images\/2_2bacdf7b-275e-45fa-b3f6-d3787b3ddcca.png",
+        "text_color": "#ffffff"
+      }
+    },
+    "multi_column_9WTYPh": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_wEyabg": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/34.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_WHzEfL": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/35.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_aQwYdA": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/36.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_wEyabg",
+        "image_with_text_WHzEfL",
+        "image_with_text_aQwYdA"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "1704926942babb0c6a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_bTgaC6": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_bTgaC6"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "rich_text_63x4it": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_aN6jGp": {
+          "type": "subheading",
+          "settings": {
+            "text": "DR. NOORISTANI, M.D. PRESENTS"
+          }
+        },
+        "heading_Apeq33": {
+          "type": "heading",
+          "settings": {
+            "text": "How does Balance7™ work?",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aN6jGp",
+        "heading_Apeq33"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_product_wJTKNz": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_6fagc3": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_zPTbJJ": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_rBg3Ta": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_WteYrD": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_rKMpEn": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_kfdfKR": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_kEhRnA": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_8iKMYk": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "variant_picker_piEtc3": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_rLxxbw": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_XxCpG7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ymFYKC": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_6fagc3",
+        "title_zPTbJJ",
+        "badges_rBg3Ta",
+        "price_WteYrD",
+        "rating_rKMpEn",
+        "payment_terms_kfdfKR",
+        "separator_kEhRnA",
+        "description_8iKMYk",
+        "variant_picker_piEtc3",
+        "quantity_selector_rLxxbw",
+        "buy_buttons_XxCpG7",
+        "pickup_availability_ymFYKC"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "11-day-starter-kit",
+        "separate_section_with_border": false,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "11-Day Starter Kit",
+        "content": ""
+      }
+    },
+    "video_r9iyCn": {
+      "type": "video",
+      "blocks": {
+        "play_BwkRaJ": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_BwkRaJ"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/Your Health Balance 7.2_1min.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "recommendations_count": 10,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Best-Sellers",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_8JjBxe",
+    "featured_product_VgXDwg",
+    "171146843022338b52",
+    "rich_text_FTkEbw",
+    "rich_text_mVCmh7",
+    "multi_column_PXF4bQ",
+    "rich_text_Hi8pmJ",
+    "image_with_text_ChKcd6",
+    "image_with_text_HdTmgW",
+    "image_with_text_KmTYiE",
+    "image_with_text_PqUBpW",
+    "countdown_A8CJqm",
+    "main",
+    "rich_text_JfEwEH",
+    "video_Wtdwac",
+    "rich_text_GgcQTP",
+    "video_i7k4mk",
+    "multi_column_9WTYPh",
+    "1704926942babb0c6a",
+    "rich_text_63x4it",
+    "featured_product_wJTKNz",
+    "video_r9iyCn",
+    "related-products"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "358f3679-c3be-48eb-9604-48ffcf560421": {
+      "type": "text-with-icons",
+      "blocks": {
+        "d7c0034a-2182-432a-85b5-00465ec78c9d": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Free Shipping",
+            "content": ""
+          }
+        },
+        "item_YmTcJC": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Money-Back Guarantee",
+            "content": ""
+          }
+        },
+        "item_g37GAW": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-percent",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Subscribe and Save!",
+            "content": ""
+          }
+        },
+        "818edc77-dc47-45bf-bfd5-690e27743642": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-secure-profile",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Trusted Quality",
+            "content": ""
+          }
+        },
+        "a2aa6996-86ec-4841-a5ad-622ccd019547": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-pin",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "Made in the U.S.A",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "d7c0034a-2182-432a-85b5-00465ec78c9d",
+        "item_YmTcJC",
+        "item_g37GAW",
+        "818edc77-dc47-45bf-bfd5-690e27743642",
+        "a2aa6996-86ec-4841-a5ad-622ccd019547"
+      ],
+      "settings": {
+        "color_scheme": "scheme-ba8b31bb-91c3-4c7d-8120-8aea7b508109",
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "#021c79",
+        "text_color": "#021c79",
+        "text_alignment": "center"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "be98c709-3369-46cd-a007-dea6a8e3fcfa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_8.png",
+            "image_width": 140,
+            "link": ""
+          }
+        },
+        "bcf3d58f-5826-447a-ae8a-9ce55f5e5f66": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true,
+            "menu_title": "<strong>Balance7<\/strong>"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "<strong>Balance7: Results in 3 Days<\/strong>",
+            "content": "<p>Unlock your full health potential in just 3 days with Balance7's proven alkaline formula—trusted by over six million globally.<\/p><p><\/p><p><strong>Balance7™, an Al Siamon Inc product <\/strong><\/p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": "<strong>Support<\/strong>"
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "<strong>Newsletter<\/strong>",
+            "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "be98c709-3369-46cd-a007-dea6a8e3fcfa",
+        "bcf3d58f-5826-447a-ae8a-9ce55f5e5f66",
+        "text",
+        "links",
+        "newsletter"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "show_social_media": true,
+        "show_payment_icons": false,
+        "show_country_selector": false,
+        "show_country_name": true,
+        "show_country_flag": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "358f3679-c3be-48eb-9604-48ffcf560421",
+    "footer"
+  ]
+}

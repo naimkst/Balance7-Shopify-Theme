@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "blog_posts_EVUeDY": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "news",
+        "posts_count": 9,
+        "stack_on_mobile": true,
+        "show_category": false,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Blogs & News",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "color_scheme": "",
+        "show_blog_title": true,
+        "show_rss_feed": true,
+        "show_tags": false,
+        "posts_per_page": 10,
+        "feature_first_blog_post": false,
+        "featured_blog_post_color_scheme": "",
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true
+      }
+    }
+  },
+  "order": [
+    "blog_posts_EVUeDY",
+    "main"
+  ]
+}

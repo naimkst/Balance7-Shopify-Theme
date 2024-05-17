@@ -1,0 +1,58 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "Get Free Shipping On All Orders"
+          }
+        }
+      },
+      "block_order": [
+        "message-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 6,
+        "desktop_font_size": 15,
+        "mobile_font_size": 13
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "enable_sticky": true,
+        "show_separation_border": false,
+        "reduce_padding": true,
+        "logo": "{{ shop.brand.logo }}",
+        "logo_max_width": 110,
+        "logo_mobile_max_width": 95,
+        "menu": "menu",
+        "sidebar_menu": "menu",
+        "menu_open_trigger": "hover",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "layout": "logo_left_navigation_center",
+        "show_icons": true,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "show_locale_selector": false,
+        "transparent_header_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

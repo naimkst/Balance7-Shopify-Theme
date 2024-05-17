@@ -1,0 +1,227 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_LKHFk8": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_EnRt9U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1><strong>About Us: Balance7™<\/strong><\/h1>"
+          }
+        },
+        "richtext_gTLXWP": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Founded in 1999 by Al Siamon and led by CEO Dr. Ahmad Nooristani, Balance7™ represents a commitment to enhancing health and wellness through natural, scientifically validated means. <\/p><p>Our mission is clear: to elevate the quality of life by harnessing the body's natural healing abilities, ensuring everyone can achieve the wellness they deserve. Balance7™ is more than a supplement; it's a movement towards a life filled with energy, clarity, and vitality.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_EnRt9U",
+        "richtext_gTLXWP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_8KdL48": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_Fccq4C": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_bdfecd71-d603-4ed7-9aa8-b4b70850aa8f.png",
+            "title": "<strong>Al Siamon, Founder:<\/strong>",
+            "heading_tag": "h3",
+            "content": "<p>Overcoming personal health challenges, including cancer and heart surgery, Al Siamon was inspired to create Balance7™. His invention is a testament to the power of resilience and innovation in the face of adversity, offering a new lease on life to millions around the globe.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_GcHTii": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_ae866ddf-420f-4e83-a408-fe5f19e831b2.png",
+            "title": "<strong>Dr. Ahmad Nooristani, CEO:<\/strong>",
+            "heading_tag": "h3",
+            "content": "<p>With over 15 years in the medical field, Dr. Nooristani's holistic approach to health care and his leadership have been instrumental in the growth and success of Balance7™. He is a firm believer in the body's natural healing power when supported by the right conditions.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_Fccq4C",
+        "image_with_text_GcHTii"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 2,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "",
+        "title": "<strong>Core Members:<\/strong>",
+        "content": ""
+      }
+    },
+    "image_with_text_BdyqHQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eFRbDf": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Values and Philosophy:<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_WfTTe7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At Balance7™, we are driven by a commitment to <strong>Natural Wellness, Scientific Integrity,<\/strong> and <strong>Health Empowerment<\/strong>. We believe in empowering individuals to take control of their health through natural and effective solutions. Our approach combines the best of nature with scientific research to offer products that support the body's natural healing processes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eFRbDf",
+        "richtext_WfTTe7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/713cC9s2LXL._AC_UF1000_1000_QL80__1__20240130_212421112.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_tErfew": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_k6WAw9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2><strong>Achievements and Milestones:<\/strong><\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_k6WAw9"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "timeline_Xxbg8A": {
+      "type": "timeline",
+      "blocks": {
+        "item_eayV6f": {
+          "type": "item",
+          "settings": {
+            "label": "<strong>Global Impact<\/strong>",
+            "subheading": "6 Million",
+            "title": "<strong>Global Impact<\/strong>",
+            "content": "<p>Over 6 million bottles sold, reflecting the trust and effectiveness of Balance7™ worldwide.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_arMbh9": {
+          "type": "item",
+          "settings": {
+            "label": "<strong>Proven Satisfaction<\/strong>",
+            "subheading": "80% Satisfaction",
+            "title": "<strong>Proven Satisfaction<\/strong>",
+            "content": "<p>An 80% satisfaction rate among users highlights the positive impact of our products on their health.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_hXG6JH": {
+          "type": "item",
+          "settings": {
+            "label": "<strong>Media Recognition<\/strong>",
+            "subheading": "Subheading",
+            "title": "<strong>Media Recognition<\/strong>",
+            "content": "<p>Dr. Nooristani's insights have been featured in prestigious platforms like Yahoo Articles, and his engaging \"Health Check\" TV show further amplifies our reach and impact.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_eayV6f",
+        "item_arMbh9",
+        "item_hXG6JH"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "",
+        "separate_section_with_border": false
+      }
+    },
+    "contact-form": {
+      "type": "contact",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Ask Dr. Nooristani",
+        "content": ""
+      }
+    },
+    "newsletter_y8B4wK": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_LKHFk8",
+    "multi_column_8KdL48",
+    "image_with_text_BdyqHQ",
+    "rich_text_tErfew",
+    "timeline_Xxbg8A",
+    "contact-form",
+    "newsletter_y8B4wK"
+  ]
+}

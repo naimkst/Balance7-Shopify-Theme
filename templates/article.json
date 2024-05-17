@@ -1,0 +1,75 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "color_scheme": "",
+        "show_image": true,
+        "enable_parallax": true,
+        "image_size": "medium",
+        "content_width": "xs",
+        "show_date": false,
+        "show_category": false,
+        "show_author": false,
+        "show_share_buttons": true,
+        "show_sticky_bar": true,
+        "toolbar_color_scheme": ""
+      }
+    },
+    "1712939058ea63ea07": {
+      "type": "apps",
+      "blocks": {
+        "shop_quiz_product_recommender_inline_quiz_8a9mfn": {
+          "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "gWHrK0",
+            "quiz_height": 600,
+            "quiz_autoscroll": true,
+            "quiz_fixed_height": false
+          }
+        }
+      },
+      "block_order": [
+        "shop_quiz_product_recommender_inline_quiz_8a9mfn"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true
+      }
+    },
+    "prev-next-blog-posts": {
+      "type": "prev-next-blog-posts",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "subheading": "",
+        "title": "Read more",
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true
+      }
+    },
+    "newsletter_HdJRyW": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1712939058ea63ea07",
+    "prev-next-blog-posts",
+    "newsletter_HdJRyW"
+  ]
+}

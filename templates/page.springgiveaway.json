@@ -1,0 +1,612 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_RyYaMK": {
+      "type": "rich-text",
+      "settings": {
+        "color_scheme": "scheme-3a30aa01-8ff5-44cf-9293-9ef6dae086c9",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_kMXXfW": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_9qBq4U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><strong>Welcome to a Season of Transformation<\/strong><\/h3>"
+          }
+        },
+        "heading_UHgAgW": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Spring Into Health: The Balance7 Giveaway Campaign<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_tr4yWe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>With each day growing longer, let's use the extra daylight to spotlight our health. <\/h3><h3>This Spring, make a commitment to yourself. Turn back the health clock with Balance7 and step into a future where wellness is within reach.<\/h3>"
+          }
+        },
+        "button_MfFDya": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Enter Now For a Chance To Win",
+            "url": "https:\/\/gleam.io\/1po6o\/spring-giveaway-by-balance7",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_9qBq4U",
+        "heading_UHgAgW",
+        "richtext_tr4yWe",
+        "button_MfFDya"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_block_x6G83m": {
+      "type": "image-with-text-block",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/BALANCE7_VALENTINES_DAY_5.png",
+        "mobile_image": "shopify:\/\/shop_images\/BALANCE67_Valentine_s_Day_4.png",
+        "content_width": "lg",
+        "enable_parallax": false,
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_tPkXDC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CmAwh9": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Giveaway Rewards<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_aWNiwg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Boost Your Immunity, Revitalize Your Look, Savor the Delights.<\/h3>"
+          }
+        },
+        "richtext_J8xYJC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>This spring, embrace renewal and wellness with Balance7™'s Spring Into Health Giveaway. Dive into a comprehensive experience designed to strengthen your health, refresh your wardrobe, and pamper your senses with premium rewards.<\/h3><p><strong>Please Note:<\/strong><\/p><ul><li>Entrants must be at least 18 years old and reside within the United States.<\/li><li>Entries close on April 29th, with the winner announced by the end of April.<\/li><li>Read more here: https:\/\/balance7.com\/pages\/spring-giveaway-campaign-regulations <\/li><\/ul>"
+          }
+        },
+        "image_6t7kcd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BALANCE7_VALENTINES_DAY_7.png",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
+        "button_9k6BVA": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Enter Now For a Chance To Win",
+            "url": "https:\/\/gleam.io\/1po6o\/spring-giveaway-by-balance7",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_Tpyc74": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Read Terms & Conditions",
+            "url": "https:\/\/balance7.com\/pages\/spring-giveaway-campaign-regulations",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CmAwh9",
+        "richtext_aWNiwg",
+        "richtext_J8xYJC",
+        "image_6t7kcd",
+        "button_9k6BVA",
+        "button_Tpyc74"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_4LVEQ7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WhPB4M": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Win Big This Spring: Health & Happiness Prizes<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XiJ7jk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>This spring, go big with our Spring Into Health Giveaway! Enhance your lifestyle with gift cards from Lululemon and New Balance, enjoy indulgences like Starbucks and premium dark chocolate, relish movie nights with 2 tickets, and luxuriate with a $1,000 gift basket. <\/h3><h3><\/h3><h3>Plus, elevate your health and wellness with Balance7 (32oz) and My Smooth Skin. All set to make your spring extraordinary.<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WhPB4M",
+        "richtext_XiJ7jk"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/BALANCE67_Valentine_s_Day_3.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_K9Wbma": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MMgc3g": {
+          "type": "heading",
+          "settings": {
+            "text": "Style: Fashion Meets Function",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_38Vydg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Elevate your style with exclusive gift cards from Lululemon and New Balance. Indulge in Lululemon's premium, adaptable athletic attire and experience the perfect blend of style and comfort with New Balance's fashionable, supportive shoes. Discover the ultimate in looking fabulous and feeling fantastic.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MMgc3g",
+        "richtext_38Vydg"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/4_0af7bb5a-34b5-43dd-9653-2f78bf96c278.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_JjiePU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_B4Ah6j": {
+          "type": "heading",
+          "settings": {
+            "text": "Treats: Ultimate Indulgence & Delight",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ka7T3r": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dive into opulence with gourmet dark chocolates and movie tickets for two, promising shared moments of joy. Elevate these treats with a Starbucks gift card and an exquisite gift basket valued at approximately $1000, filled with premium delights for an extra sprinkle of luxury.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B4Ah6j",
+        "richtext_ka7T3r"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/5_170ea68a-4f78-4789-bc6d-45041b7cd2b0.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_NgxUjm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kf7eVa": {
+          "type": "heading",
+          "settings": {
+            "text": "Ready to Win? Fill Out the Form Below and Enter Now!",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_F9WTLh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>By joining our Spring Into Health Giveaway, you're not merely participating in a contest — you're embracing the opportunity to win a holistic suite of prizes! From the immune-boosting Balance7 products to stylish and functional attire from Lululemon and New Balance, complemented by the pleasure of a Starbucks gift card and a lavish $1,000 gift basket. <\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kf7eVa",
+        "richtext_F9WTLh"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_89zY44": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_UKKFCi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At the heart of our giveaway is the remarkable Balance7 pH11 Plus, a unique formula designed to enhance your well-being and vitality. Its innovative composition is perfect for maintaining a balanced lifestyle, something we all strive for in our busy lives.<\/p><p>To add a touch of luxury, we've included a Lululemon gift card in our prize package. Known for their high-quality, stylish athletic wear, Lululemon is the perfect choice for those who value both comfort and fashion.<\/p><p>But that's not all! To ensure you feel your best, we've also included a special product to keep your skin feeling smooth and refreshed. It's a little secret to help you radiate with confidence and charm.<\/p><p>For the chocolatelovers, we haven't forgotten you. Indulge in some exquisite dark chocolates,carefully selected for their rich flavors and quality. It's a sweet treatthat's sure to bring a smile to your face.<\/p><p>Date nights are made even more special with movie tickets for two. Whether it's a romantic comedy, an action-packed adventure, or a heartwarming drama, a night at the movies is a timeless way to enjoy some quality time with a loved one.<\/p><p>Lastly, to keep you moving in comfort and style, we're including a pair of New Balance shoes. Known for their exceptional support and trendy designs, these shoes are perfect for staying active or simply enjoying a casual day out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UKKFCi"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-3a30aa01-8ff5-44cf-9293-9ef6dae086c9",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "custom_liquid_4KHKmd": {
+      "type": "custom-liquid",
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<center><iframe src=\"https:\/\/gleam.io\/1po6o\/spring-giveaway-by-balance7\" align=center style=\"height:625px;width:420px;\" title=\"Spring Giveaway by Balance\"><\/iframe><\/center>",
+        "text_alignment": "center"
+      }
+    },
+    "featured_product_PCawrD": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_ib3Bxw": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_VxX6AM": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_fmEL8V": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_ahdePC": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_fgHUP6": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_66VYLH": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_aCddge": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_b3LPRg": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_bj7DLV": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_H7JepG": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_3LN9VF": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_WWaKgX": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_ib3Bxw",
+        "title_VxX6AM",
+        "badges_fmEL8V",
+        "price_ahdePC",
+        "rating_fgHUP6",
+        "payment_terms_66VYLH",
+        "separator_aCddge",
+        "description_b3LPRg",
+        "variant_picker_bj7DLV",
+        "quantity_selector_H7JepG",
+        "buy_buttons_3LN9VF",
+        "pickup_availability_WWaKgX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "11-day-starter-kit",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Unlock Your Health Potential: Try Our 11-Day Trial Kit",
+        "content": ""
+      }
+    },
+    "rich_text_UyYWRA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_rBpffH": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7: Taste Your Health"
+          }
+        },
+        "heading_VRBVyX": {
+          "type": "heading",
+          "settings": {
+            "text": "What Does Balance7's Taste Tell You About Your Health?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_BExtVc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
+          }
+        },
+        "button_kC8LJP": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Learn More",
+            "url": "https:\/\/balance7.com\/blogs\/news\/balancing-act",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_rBpffH",
+        "heading_VRBVyX",
+        "richtext_BExtVc",
+        "button_kC8LJP"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_ftkFwL": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_nWQiU4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BALANCE67_Valentine_s_Day_2.png",
+            "title": "Start Your Journey",
+            "heading_tag": "h3",
+            "content": "<p>You’ve landed in the right place for our Spring Into Health Giveaway. Here, you’ll find out how to join and learn about the great prizes waiting for you. Each prize is designed to boost your health and offer you a memorable spring experience.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_tmEMH4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BALANCE67_Valentine_s_Day_1.png",
+            "title": "Engage and Enter",
+            "heading_tag": "h3",
+            "content": "<p>Just answer our simple health question and share your email when you submit your answer. This easy step not only moves you closer to possibly winning but also welcomes you into the Balance7 family, where we all support each other on our health journeys.<\/p>",
+            "link_url": "https:\/\/gleam.io\/1po6o\/spring-giveaway-by-balance7",
+            "link_text": "Enter Now For a Chance To Win"
+          }
+        },
+        "image_with_text_iCiLNA": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_8f7d6f25-e99b-46ed-ac37-cc33915a5bf8.png",
+            "title": "Eagerly Await",
+            "heading_tag": "h3",
+            "content": "<p>Stay tuned to find out if you’ve won our giveaway. We’ll be announcing the lucky winner who will receive our spring wellness package. Make sure to check your email, as we’ll be notifying the winner directly.<\/p>",
+            "link_url": "https:\/\/balance7.com\/pages\/spring-giveaway-campaign-regulations",
+            "link_text": "Read Terms & Conditions"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_nWQiU4",
+        "image_with_text_tmEMH4",
+        "image_with_text_iCiLNA"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": true,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "<strong>How to Join Spring Into Health Giveaway by Balance7<\/strong>",
+        "content": ""
+      }
+    },
+    "rich_text_JEH6zY": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_dFpYjK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Remember, you're right where you need to be. Dive into everything this page has to offer, getting to know all about our Spring Into Health Giveaway. Best of luck, and we're eager to see how Balance7 can uplift your health this spring and in the future!<\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_dFpYjK"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "1704932144b80e6f9c": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_wzTX4A": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_wzTX4A"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "featured_collections_JFD8DK": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_DKUNVg": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-sellers",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_DKUNVg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "The Only Supplement You'll Ever Need"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_RyYaMK",
+    "rich_text_kMXXfW",
+    "image_with_text_block_x6G83m",
+    "rich_text_tPkXDC",
+    "image_with_text_4LVEQ7",
+    "image_with_text_K9Wbma",
+    "image_with_text_JjiePU",
+    "rich_text_NgxUjm",
+    "rich_text_89zY44",
+    "custom_liquid_4KHKmd",
+    "featured_product_PCawrD",
+    "rich_text_UyYWRA",
+    "multi_column_ftkFwL",
+    "rich_text_JEH6zY",
+    "1704932144b80e6f9c",
+    "featured_collections_JFD8DK"
+  ]
+}

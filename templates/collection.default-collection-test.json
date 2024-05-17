@@ -1,0 +1,428 @@
+{
+  "sections": {
+    "slideshow_BN8t63": {
+      "type": "slideshow",
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_WTFp3T": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rnT3WX": {
+          "type": "heading",
+          "settings": {
+            "text": "#1 Alkaline Concentrate Supplement",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rnT3WX"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_qYBUam": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_YTBEXT": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>Alkaline pH Balance Supplements<\/strong>"
+          }
+        },
+        "heading_PkwJ4J": {
+          "type": "heading",
+          "settings": {
+            "text": "Products",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LkG9ce": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>With Balance7™, experience the resurgence of your immune system, your body's natural defense against illness.<\/p>"
+          }
+        },
+        "button_qamDPi": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Buy Now",
+            "url": "",
+            "background": "#77ff4e",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YTBEXT",
+        "heading_PkwJ4J",
+        "richtext_LkG9ce",
+        "button_qamDPi"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/11day_2.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": false,
+        "show_image": false,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_breadcrumb": false,
+        "content_width": "lg",
+        "overlay_color": "#000000",
+        "overlay_opacity": 3
+      }
+    },
+    "rich_text_kM9T8m": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_G3zTe7": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_eKTLBE": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Introducing the Balance7 Collection of Alkalizing Supplements<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_X8LRj4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Ever felt that your body is just not on your side? That despite your best efforts, something seems off? You are not alone.<\/p>"
+          }
+        },
+        "link_YTcPnq": {
+          "type": "link",
+          "settings": {
+            "text": "Read More",
+            "url": "shopify:\/\/pages\/testimonials-balance7"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_G3zTe7",
+        "heading_eKTLBE",
+        "richtext_X8LRj4",
+        "link_YTcPnq"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 46,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": true,
+        "show_empty_filter_values": true,
+        "show_filter_values_count": true,
+        "show_color_swatch": true,
+        "open_filters_by_default": true
+      }
+    },
+    "rich_text_eLEjq3": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_fw4mXV": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7™"
+          }
+        },
+        "heading_cJVYrU": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>Understanding Alkaline pH Balance Supplements<\/strong>",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PCxDJ7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our bodies work best when they're at a specific pH level. When that balance gets messed up, it can lead to all sorts of health problems. Our supplements step in to fix things by reducing acidity in the body.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_fw4mXV",
+        "heading_cJVYrU",
+        "richtext_PCxDJ7"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "xs",
+        "text_position": "start",
+        "remove_vertical_spacing": true
+      }
+    },
+    "timeline_X6xn8c": {
+      "type": "timeline",
+      "blocks": {
+        "item_i8nJ6j": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_banner_2.png",
+            "label": "1",
+            "subheading": "",
+            "title": "<strong>Importance of pH in the Body<\/strong>",
+            "content": "<p>Maintaining pH balance isn't just important - it's essential. When your body gets too acidic, it can lead to various health issues, like fatigue and inflammation. As we age, our bodies struggle to maintain this balance naturally, which is where supplements can help.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_CgKfrn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_banner_2.png",
+            "label": "2",
+            "subheading": "",
+            "title": "Natural Immune Activation",
+            "content": "<p>Balance7™ harnesses the power of all-natural ingredients, aligned with scientific insights, to trigger a profound bodily response.<\/p><p><br\/>This begins with the neutralization of stomach acid, which then prompts your body to elevate it's alkaline levels, preparing your immune system to act, strong and alert.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_V3Qd8t": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_banner_2.png",
+            "label": "3",
+            "subheading": "",
+            "title": "Taste Your Health",
+            "content": "<p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_dCdVef": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_banner_2.png",
+            "label": "4",
+            "subheading": "",
+            "title": "Beyond Immunity",
+            "content": "<p>Balance7 brings a range of benefits that manifest in ways you may not have anticipated.<br\/><br\/>Experience reduced body odor and a decrease in body temperature over time - a testament to a system no longer burdened by imbalance. It's the sign of a body in harmony, an indication of extended years of vitality and health.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        },
+        "item_4mHW3X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_banner_2.png",
+            "label": "5",
+            "subheading": "",
+            "title": "Three Toasts to Your Health",
+            "content": "<p>First toast to your health: 1 ounce three times a day of Balance7 for a body reset.<br\/><br\/>Second toast: experience revival with each cell energized.<br\/><br\/>And the third toast: sleep and heal, sustaining vitality throughout the day.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "mobile_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "item_i8nJ6j",
+        "item_CgKfrn",
+        "item_V3Qd8t",
+        "item_dCdVef",
+        "item_4mHW3X"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "item_color_scheme": "",
+        "separate_section_with_border": true
+      }
+    },
+    "image_with_text_JmYwTQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_FweHUt": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_tPPMnt": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>What does Balance7's taste tell you about your health?<\/strong>",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_zn6yWt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<br\/>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems fatigue, memory issues, and sleep disturbances.<br\/>As Balance7 works its magic, over time your pH levels will optimize and the bitter taste will lessen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_FweHUt",
+        "heading_tPPMnt",
+        "richtext_zn6yWt"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify:\/\/shop_images\/PH_Balance_Image2.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_block_bT9nGR": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_xgh9pe": {
+          "type": "subheading",
+          "settings": {
+            "text": "Quiz Time"
+          }
+        },
+        "richtext_QttpEm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Will Balance7 work for me?<\/strong><\/p>"
+          }
+        },
+        "subheading_KgwVhR": {
+          "type": "subheading",
+          "settings": {
+            "text": "Answer a few questions to see if Balance7 is a good fit for you!"
+          }
+        },
+        "link_wEHX9e": {
+          "type": "link",
+          "settings": {
+            "text": "Take the Quiz Now",
+            "url": "https:\/\/balance7.com\/collections\/all#quiz-gWHrK0"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xgh9pe",
+        "richtext_QttpEm",
+        "subheading_KgwVhR",
+        "link_wEHX9e"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_size": "xs",
+        "image": "shopify:\/\/shop_images\/aa.jpg",
+        "content_width": "lg",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
+    },
+    "slideshow_69JPzg": {
+      "type": "slideshow",
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "autoplay": false,
+        "autoplay_pause_on_video": false,
+        "cycle_speed": 4,
+        "background": "#ffffff",
+        "controls_color": "#ffffff"
+      }
+    },
+    "17049278253b4090d9": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_FXFqYW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_FXFqYW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_BN8t63",
+    "rich_text_WTFp3T",
+    "image_with_text_qYBUam",
+    "collection-banner",
+    "rich_text_kM9T8m",
+    "main",
+    "rich_text_eLEjq3",
+    "timeline_X6xn8c",
+    "image_with_text_JmYwTQ",
+    "image_with_text_block_bT9nGR",
+    "slideshow_69JPzg",
+    "17049278253b4090d9"
+  ]
+}

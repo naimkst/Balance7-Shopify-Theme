@@ -1,0 +1,434 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_kMXXfW": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_9qBq4U": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><strong>Join Cupid's Giveaway by Balance7<\/strong><\/h3>"
+          }
+        },
+        "heading_UHgAgW": {
+          "type": "heading",
+          "settings": {
+            "text": "Make This Valentine's Unforgettable",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_tr4yWe": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Join Cupid's Giveaway now, and let Balance7 sprinkle a little extra love, health, and excitement into your Valentine's Day!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_9qBq4U",
+        "heading_UHgAgW",
+        "richtext_tr4yWe"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_block_x6G83m": {
+      "type": "image-with-text-block",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/1_1c2a50b8-fbc1-471e-9afd-6db22e46c4ca.png",
+        "mobile_image": "shopify:\/\/shop_images\/BALANCE7_VALENTINES_DAY_Instagram_Post_1.png",
+        "content_width": "lg",
+        "enable_parallax": false,
+        "remove_vertical_spacing": true
+      }
+    },
+    "multi_column_ftkFwL": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_nWQiU4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_36fbd6c3-1c03-4f58-99ad-4f3839433e14.png",
+            "title": "Start Your Journey",
+            "heading_tag": "h3",
+            "content": "<p>You're in the perfect spot to discover all the giveaways and learn how each can significantly elevate your Valentine's Day experience. Dive deep into the details on this page to understand how you can participate and what luxurious prizes and unforgettable experiences await you.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_tmEMH4": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_68eb50b3-5baf-4066-9f9e-5ed08c2e0d91.png",
+            "title": "Engage and Enter",
+            "heading_tag": "h3",
+            "content": "<p>Respond to our single health-related question and include your email address with your submission. This simple step not only brings you closer to potentially winning but also connects you with the Balance7 community, where wellness is a shared journey.<\/p>",
+            "link_url": "https:\/\/gleam.io\/io6cC\/cupids-giveaway-by-balance7",
+            "link_text": "Enter Now For a Chance To Win"
+          }
+        },
+        "image_with_text_iCiLNA": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_83f1f5c4-7d59-485a-a2f9-6ee598cd1832.png",
+            "title": "Eagerly Await",
+            "heading_tag": "h3",
+            "content": "<p>Stay tuned for the announcement of the winner. By participating, you could become the lucky recipient of our giveaway. The winner will be notified directly, so keep an eye on your inbox for that exciting message.<\/p>",
+            "link_url": "https:\/\/balance7.com\/pages\/cupids-giveaway-campaign-regulations",
+            "link_text": "Read Terms & Conditions"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_nWQiU4",
+        "image_with_text_tmEMH4",
+        "image_with_text_iCiLNA"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": true,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "<strong>How to Join Cupid's Giveaway by Balance7<\/strong>",
+        "content": ""
+      }
+    },
+    "rich_text_JEH6zY": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_dFpYjK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Remember, you're already at the heart of where it all happens. Explore this page to its fullest, understanding every nuance of Cupid's Giveaway. Good luck, and we can't wait to see how Balance7 might enhance your Valentine's Day and beyond!<\/p><p><\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_dFpYjK"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3a30aa01-8ff5-44cf-9293-9ef6dae086c9",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_tPkXDC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CmAwh9": {
+          "type": "heading",
+          "settings": {
+            "text": "Cupid’s Curated Gifts",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_aWNiwg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Elevate Your Health & Wellness, Refresh Your Style, Indulge Your Senses<\/h3>"
+          }
+        },
+        "richtext_J8xYJC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>This Valentine's Day, celebrate love and wellness with Cupid's Giveaway, brought to you by Balance7™. Immerse yourself in a holistic experience tailored to boost your vitality, elevate your style, and indulge your senses with luxurious treats. <\/p><p><strong>Please Note:<\/strong><\/p><ul><li>Entrants must be at least 18 years old and reside within the United States.<\/li><li>Entries close on February 13th, with the winner announced shortly after.<\/li><\/ul><p>Read more here: <a href=\"https:\/\/balance7.com\/pages\/cupids-giveaway-campaign-regulations\" title=\"https:\/\/balance7.com\/pages\/cupids-giveaway-campaign-regulations\">https:\/\/balance7.com\/pages\/cupids-giveaway-campaign-regulations<\/a><\/p><p>Prepare for a Valentine's Day that transcends the ordinary with Cupid's Giveaway by Balance7. Embrace a celebration filled with love, wellness, and extraordinary indulgence.<\/p><p>Here's a sneak peek into the enriching journey we've crafted:<\/p>"
+          }
+        },
+        "image_6t7kcd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_6d0a2fef-007e-44b5-9791-5e571d048fc5.png",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
+        "button_9k6BVA": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Enter Now For a Chance To Win",
+            "url": "https:\/\/gleam.io\/io6cC\/cupids-giveaway-by-balance7",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_Tpyc74": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Read Terms & Conditions",
+            "url": "shopify:\/\/pages\/spring-giveaway-campaign-regulations",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_CmAwh9",
+        "richtext_aWNiwg",
+        "richtext_J8xYJC",
+        "image_6t7kcd",
+        "button_9k6BVA",
+        "button_Tpyc74"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_4LVEQ7": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_czkm3i": {
+          "type": "subheading",
+          "settings": {
+            "text": "BALANCE7 PRODUCTS"
+          }
+        },
+        "heading_WhPB4M": {
+          "type": "heading",
+          "settings": {
+            "text": "Health & Wellness: Vitality Inside Out",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XiJ7jk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Embark on a wellness journey with Balance7 and My Smooth Skin. Explore the remarkable benefits of Balance7™, your ally in achieving alkaline balance and enhancing immune strength, celebrated for rejuvenating millions around the globe. Complement this internal harmony with outer radiance using My Smooth Skin, specifically formulated to make your skin smooth, radiant, and brimming with confidence.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_czkm3i",
+        "heading_WhPB4M",
+        "richtext_XiJ7jk"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/3_604c580f-7e23-45b4-bfce-b10b77c1d9dd.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_K9Wbma": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_MMgc3g": {
+          "type": "heading",
+          "settings": {
+            "text": "Style: Fashion Meets Function",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_38Vydg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Elevate your style with exclusive gift cards from Lululemon and New Balance. Indulge in Lululemon's premium, adaptable athletic attire and experience the perfect blend of style and comfort with New Balance's fashionable, supportive shoes. Discover the ultimate in looking fabulous and feeling fantastic.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MMgc3g",
+        "richtext_38Vydg"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/4_0af7bb5a-34b5-43dd-9653-2f78bf96c278.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_JjiePU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_B4Ah6j": {
+          "type": "heading",
+          "settings": {
+            "text": "Treats: Ultimate Indulgence & Delight",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ka7T3r": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dive into opulence with gourmet dark chocolates and movie tickets for two, promising shared moments of joy. Elevate these treats with a Starbucks gift card and an exquisite gift basket valued at approximately $1000, filled with premium delights for an extra sprinkle of luxury.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B4Ah6j",
+        "richtext_ka7T3r"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/5_170ea68a-4f78-4789-bc6d-45041b7cd2b0.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_NgxUjm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kf7eVa": {
+          "type": "heading",
+          "settings": {
+            "text": "Ready to Win? Fill Out the Form Below and Enter Now!",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_F9WTLh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>By entering our Cupid's Giveaway, you're not just choosing one category of gifts — you're securing a chance to win them all! From the revitalizing wellness products of Balance7 and My Smooth Skin, to chic and functional fashion from Lululemon and New Balance, and finally to the ultimate indulgence of gourmet treats and luxurious gift cards. <\/p><p>Don't miss this unique opportunity to elevate your Valentine's Day with a sweep of all our carefully curated gift categories. Enter now and embrace the chance to win a complete celebration of love and wellness!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kf7eVa",
+        "richtext_F9WTLh"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_89zY44": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_UKKFCi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At the heart of our giveaway is the remarkable Balance7 pH11 Plus, a unique formula designed to enhance your well-being and vitality. Its innovative composition is perfect for maintaining a balanced lifestyle, something we all strive for in our busy lives.<\/p><p>To add a touch of luxury, we've included a Lululemon gift card in our prize package. Known for their high-quality, stylish athletic wear, Lululemon is the perfect choice for those who value both comfort and fashion.<\/p><p>But that's not all! To ensure you feel your best, we've also included a special product to keep your skin feeling smooth and refreshed. It's a little secret to help you radiate with confidence and charm.<\/p><p>For the chocolatelovers, we haven't forgotten you. Indulge in some exquisite dark chocolates,carefully selected for their rich flavors and quality. It's a sweet treatthat's sure to bring a smile to your face.<\/p><p>Date nights are made even more special with movie tickets for two. Whether it's a romantic comedy, an action-packed adventure, or a heartwarming drama, a night at the movies is a timeless way to enjoy some quality time with a loved one.<\/p><p>Lastly, to keep you moving in comfort and style, we're including a pair of New Balance shoes. Known for their exceptional support and trendy designs, these shoes are perfect for staying active or simply enjoying a casual day out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_UKKFCi"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-3a30aa01-8ff5-44cf-9293-9ef6dae086c9",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "custom_liquid_4KHKmd": {
+      "type": "custom-liquid",
+      "settings": {
+        "color_scheme": "scheme-4f2d9bb3-90b7-4e2b-a85e-31c361080bda",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<center><iframe src=\"https:\/\/gleam.io\/io6cC\/cupids-giveaway-with-balance7\" align=center style=\"height:625px;width:420px;\" title=\"Cupid's Giveaway\"><\/iframe><\/center>",
+        "text_alignment": "center"
+      }
+    },
+    "1704932144b80e6f9c": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_wzTX4A": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_wzTX4A"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "featured_collections_JFD8DK": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_DKUNVg": {
+          "type": "collection",
+          "settings": {
+            "collection": "best-sellers",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_DKUNVg"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "The Only Supplement You'll Ever Need"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kMXXfW",
+    "image_with_text_block_x6G83m",
+    "multi_column_ftkFwL",
+    "rich_text_JEH6zY",
+    "rich_text_tPkXDC",
+    "image_with_text_4LVEQ7",
+    "image_with_text_K9Wbma",
+    "image_with_text_JjiePU",
+    "rich_text_NgxUjm",
+    "rich_text_89zY44",
+    "custom_liquid_4KHKmd",
+    "1704932144b80e6f9c",
+    "featured_collections_JFD8DK"
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_kMXXfW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UHgAgW": {
+          "type": "heading",
+          "settings": {
+            "text": "Help Your Body Counter the Effects of Processed Foods and Boost the Immune System!",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_9RCUKB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1><strong>Meet Balance7™<\/strong><\/h1><p>Balance7™ is a pioneering wellness solution, built on scientifically validated, natural elements. Geared towards balancing your body's acidity level, helping combat the effects of processed foods.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UHgAgW",
+        "richtext_9RCUKB"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_ggFGg6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fU9fNk": {
+          "type": "heading",
+          "settings": {
+            "text": "Did you know? Processed Food Facts:",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_bbYPak": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Increases Chances\/Causes: <\/strong><\/p><ul><li>Serious Heart and Circulatory Events<\/li><li>Heart Attacks, Strokes and Angina<\/li><li>Obesity<\/li><li>Type 2 Diabetes<\/li><li>Some forms of Cancers<\/li><li>Chronic Inflammation<\/li><li>Reduces Immune System Function<\/li><li>Depression and Anxiety<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fU9fNk",
+        "richtext_bbYPak"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/combination.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_RxTeGQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_heATg3": {
+          "type": "heading",
+          "settings": {
+            "text": "Limited-Time Offer: Save 10%",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_g9MXaE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Shop now to boost your immune system and counteract the effects of processed foods. Use coupon code BALANCEYOURPH at checkout.<\/p>"
+          }
+        },
+        "button_z3J7XT": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_heATg3",
+        "richtext_g9MXaE",
+        "button_z3J7XT"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_YQkwiP": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_Vc4mRF": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/acidicity.jpg",
+            "title": "<strong>Why Immunity Needs pH Balance<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>The choices we make, from food to our way of life and stress, can add acidity to our bodies. This silent disruptor weakens our immunity and can be the root cause of many health concerns.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_47VmkY": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vegetablescalc4.jpg",
+            "title": "<strong>Eating Healthy is More Expensive than Ever<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>More than 82% of Americans report that they eat ultra-processed foods. With food prices sky rocketing, it's harder than ever not to include processed foods in our diets.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_9BwXwT": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance7_product_minerals.jpg",
+            "title": "<strong>The pH Solution You've Been Waiting For<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>Balance7™ is your holistic solution. It fights acidity, inflammation, and related health challenges, fortifying immunity and restoring balance. Balance7™ helps counter the effects of processed foods.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_Vc4mRF",
+        "image_with_text_47VmkY",
+        "image_with_text_9BwXwT"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "lg",
+        "subheading": "",
+        "title": "Why You Need pH Balance",
+        "content": ""
+      }
+    },
+    "rich_text_6kYzx8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7tdKzE": {
+          "type": "heading",
+          "settings": {
+            "text": "As Featured In",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7tdKzE"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "xs",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "text_with_icons_T9j9tH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_ppjjWt": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/forbes.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_LUim7k": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/wsj.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_wMQmq9": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/abc.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_wXebi4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/yahoo-2-logo-black-and-white.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_ppjjWt",
+        "item_LUim7k",
+        "item_wMQmq9",
+        "item_wXebi4"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "stack_on_mobile": true,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "featured_product_ABzTtR": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_PRYDFn": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_DxcU93": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_H3qbfC": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_CA4QRV": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_m4f9Ug": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_zFkpyp": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_fYFHbb": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_7M7bk6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "variant_picker_Ub4L7X": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_bnnUqA": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_kryg6C": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_LcfXFf": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_PRYDFn",
+        "title_DxcU93",
+        "badges_H3qbfC",
+        "price_CA4QRV",
+        "rating_m4f9Ug",
+        "payment_terms_zFkpyp",
+        "separator_fYFHbb",
+        "description_7M7bk6",
+        "variant_picker_Ub4L7X",
+        "quantity_selector_bnnUqA",
+        "buy_buttons_kryg6C",
+        "pickup_availability_LcfXFf"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "16-oz-bottle-6-pack-1-month-supply",
+        "separate_section_with_border": false,
+        "container_size": "lg",
+        "product_info_size": 60,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "image_with_text_xRYUYQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_cjXetr": {
+          "type": "heading",
+          "settings": {
+            "text": "Doctor-Recommended",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_DNkAMh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dr. Nooristani, with his profound medical experience, underscores the importance of pH balance and immunity, endorsing Balance7™ for its unparalleled potential in boosting health and vitality.<\/p><p>With 1 in 4 Americans being at risk of getting cancer (per the CDC), the importance of boosting  your immune system and countering the effects of our diets is critical.<\/p>"
+          }
+        },
+        "button_bd6fCR": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjXetr",
+        "richtext_DNkAMh",
+        "button_bd6fCR"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/DSC09876.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_J9qB3g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RriYkW": {
+          "type": "heading",
+          "settings": {
+            "text": "Balance7™: The World's Immunity-Boosting Alkaline Choice",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RriYkW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "text_with_icons_Wi4cFJ": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_mXWtep": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/worldwide.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "+6 Million Units",
+            "content": "<p>Sold Worldwide<\/p>"
+          }
+        },
+        "item_BMAy3W": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-delivery-truck",
+            "custom_icon": "shopify:\/\/shop_images\/ph.png",
+            "icon_width": 64,
+            "mobile_icon_width": 64,
+            "title": "#1 Alkaline Supplement",
+            "content": "<p>Pure, Safe, Natural Ingredients<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_mXWtep",
+        "item_BMAy3W"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "stack_on_mobile": true,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "video_f3TTDX": {
+      "type": "video",
+      "blocks": {
+        "play_KATY9Q": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#ffffff"
+          }
+        },
+        "heading_kkPKGm": {
+          "type": "heading",
+          "settings": {
+            "text": "How It Works!",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_KATY9Q",
+        "heading_kkPKGm"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/Your Health Balance 7.2_1min.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "image_with_text_WejJqK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bhqW77": {
+          "type": "heading",
+          "settings": {
+            "text": "Understanding pH and Immunity",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_fwxgwN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our bodies seek a balanced pH. A tilt towards acidity will weaken our immunity system and can trigger a slew of other negative effects. Balance7™ ensures this balance, fortifying immunity and ensuring robust health.<\/p>"
+          }
+        },
+        "button_mkbGBp": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bhqW77",
+        "richtext_fwxgwN",
+        "button_mkbGBp"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/4_162c69e9-18ac-45c9-8669-7070210d7933.webp",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "1704932144b80e6f9c": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_wzTX4A": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_wzTX4A"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "multi_column_8ygQhd": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_bCP4kx": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_6ea47cc4-342e-44ca-93b7-566bac44dcba.png",
+            "title": "<strong>Perfect pH Balance<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_t9EVJn": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_8da84e33-c981-4f9c-9f51-a25e4a1aae37.png",
+            "title": "<strong>Fortify Your Immunity with Balance7™<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>Your immune system, your body's guardian, is fortified by Balance7™, bolstering its defense mechanisms.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_krMjVP": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_cd0e614d-5fdb-440b-aac5-72b3bff15c9f.png",
+            "title": "<strong>Experience Natural and Sustainable Energy with Balance7™<\/strong>",
+            "heading_tag": "h5",
+            "content": "<p>Tired of midday energy slumps? Balance7™ provides an alternative—natural, sustainable energy without caffeine's jitters or crashes. Stay energized throughout the day, enhancing productivity and well-being.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_bCP4kx",
+        "image_with_text_t9EVJn",
+        "image_with_text_krMjVP"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": true,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "lg",
+        "subheading": "",
+        "title": "From Acidity to Immunity-Boosted Wellness",
+        "content": ""
+      }
+    },
+    "rich_text_kKM39V": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7DXxqz": {
+          "type": "heading",
+          "settings": {
+            "text": "Hear the Success Stories",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_VC7prG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Lisa Kruitbosch - 2 time Cancer Survivor<\/p><p>With the help of Balance7™ pH 11+ Alkaline Concentrate Lisa is here today!<\/p><p><em>-  \"Lisa is not a paid actor\"<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7DXxqz",
+        "richtext_VC7prG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_xTaepK": {
+      "type": "video",
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "md",
+        "video": "shopify:\/\/files\/videos\/0510 (1)(3).mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "multi_column_xRDK3P": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_VV73kf": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/valerie_mercado_balance7.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_rjHX3g": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alsimon_balance7.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_9kr8h7": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dr_nooristani_balance7.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_wKqcHB": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance7_testimonial.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_VV73kf",
+        "image_with_text_rjHX3g",
+        "image_with_text_9kr8h7",
+        "image_with_text_wKqcHB"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 2,
+        "stack_on_mobile": false,
+        "overlap_image": false,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing": "md",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "rich_text_mg6aE7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Fi7JFj": {
+          "type": "heading",
+          "settings": {
+            "text": "Limited-Time Offer: Save 10%",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_XFn36V": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Shop now to boost your immunity journey. Use coupon code BALANCEYOURPH at checkout.<\/p>"
+          }
+        },
+        "button_b9peMF": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Fi7JFj",
+        "richtext_XFn36V",
+        "button_b9peMF"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "faq_b7JGh6": {
+      "type": "faq",
+      "blocks": {
+        "category_73XDdH": {
+          "type": "category",
+          "settings": {
+            "title": "About Balance7",
+            "icon": "picto-success",
+            "icon_width": 16
+          }
+        },
+        "question_MNzCrx": {
+          "type": "question",
+          "settings": {
+            "question": "What is the core idea behind Balance7?",
+            "answer": "<p>Balance7 believes in the \"pHilosophy of healthy living.\" It's about maintaining the right pH balance in the body for optimal health and vitality.<\/p>"
+          }
+        },
+        "question_cpyTWR": {
+          "type": "question",
+          "settings": {
+            "question": "Why is pH balance important?",
+            "answer": "<p>A balanced pH (around 7.35-7.45) keeps illnesses at bay, such as hypertension, cancer, and diabetes. An imbalanced pH can be caused by diet, smoking, and a sedentary lifestyle.<\/p>"
+          }
+        },
+        "question_VWUhak": {
+          "type": "question",
+          "settings": {
+            "question": "How can Balance7 benefit me?",
+            "answer": "<p>Balance7 helps:<\/p><ul><li>Elevate your energy levels.<\/li><li>Boost your immunity.<\/li><li>Reduce bloating and acid-related ailments.<\/li><li>Slow down premature aging.<\/li><\/ul><p>In just 3 days, you can feel these changes!<\/p>"
+          }
+        },
+        "question_PYgMRi": {
+          "type": "question",
+          "settings": {
+            "question": "How often should I take Balance7?",
+            "answer": "<p>Initially, taking three one-ounce doses a day for the first three days can help you begin to feel the revitalizing effects. After this initial period, it’s important to continue taking Balance7 daily to maintain your body's pH balance at an alkaline level.<\/p>"
+          }
+        },
+        "question_apgBVF": {
+          "type": "question",
+          "settings": {
+            "question": "How is Balance7 different from other supplements?",
+            "answer": "<p>Balance7 is not just a supplement. It's an alkaline concentrate formula designed to restore your body's natural pH balance. Plus, you'll feel its effects in just three days.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_73XDdH",
+        "question_MNzCrx",
+        "question_cpyTWR",
+        "question_VWUhak",
+        "question_PYgMRi",
+        "question_apgBVF"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    },
+    "newsletter_iNmRGk": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kMXXfW",
+    "image_with_text_ggFGg6",
+    "rich_text_RxTeGQ",
+    "multi_column_YQkwiP",
+    "rich_text_6kYzx8",
+    "text_with_icons_T9j9tH",
+    "featured_product_ABzTtR",
+    "image_with_text_xRYUYQ",
+    "rich_text_J9qB3g",
+    "text_with_icons_Wi4cFJ",
+    "video_f3TTDX",
+    "image_with_text_WejJqK",
+    "1704932144b80e6f9c",
+    "multi_column_8ygQhd",
+    "rich_text_kKM39V",
+    "video_xTaepK",
+    "multi_column_xRDK3P",
+    "rich_text_mg6aE7",
+    "faq_b7JGh6",
+    "newsletter_iNmRGk"
+  ]
+}

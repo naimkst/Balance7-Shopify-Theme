@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "color_scheme": "",
+        "show_cart_note": true,
+        "show_order_weight": false,
+        "show_shipping_text": true,
+        "show_accelerated_buttons": false,
+        "show_shipping_estimator": true
+      }
+    },
+    "rich_text_TPQbwg": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_MDxCkC": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7: Taste Your Health"
+          }
+        },
+        "heading_PhVDFn": {
+          "type": "heading",
+          "settings": {
+            "text": "What Does Balance7's Taste Tell You About Your Health?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_43Ng8D": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
+          }
+        },
+        "button_GJGLMd": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Learn More",
+            "url": "shopify:\/\/blogs\/news\/balancing-act",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MDxCkC",
+        "heading_PhVDFn",
+        "richtext_43Ng8D",
+        "button_GJGLMd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "featured_collections_fEknjN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_i3QFrp": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_i3QFrp"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Shop Now"
+      }
+    },
+    "170837261781ae295b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_LcL634": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_LcL634"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_TPQbwg",
+    "featured_collections_fEknjN",
+    "170837261781ae295b"
+  ]
+}

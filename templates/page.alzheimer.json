@@ -1,0 +1,298 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_kMXXfW": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kFNhWi": {
+          "type": "subheading",
+          "settings": {
+            "text": "Welcome to Balance7’s Cognitive Health and Memory Care Program"
+          }
+        },
+        "richtext_9RCUKB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Balance7™'s Cognitive Wellness Initiative<\/h1>"
+          }
+        },
+        "richtext_h743pB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7™ is proud to launch a compassionate initiative aimed at supporting those navigating memory care challenges or broader cognitive health concerns. We are offering a select group the opportunity to receive a complimentary three-month supply of B7c, our wellness supplement, meticulously crafted to aid in cognitive health and memory care.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kFNhWi",
+        "richtext_9RCUKB",
+        "richtext_h743pB"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": false,
+        "content_width": "md",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_xEXHqz": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_8FNwPT": {
+          "type": "subheading",
+          "settings": {
+            "text": "Exploring the Realm of Cognitive Health"
+          }
+        },
+        "heading_hzRhan": {
+          "type": "heading",
+          "settings": {
+            "text": "Embracing Memory Care and Cognitive Wellness",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_BxiNeD": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Millions globally grapple with cognitive health challenges that impact everyday life. Balance7™ responds with B7c, crafted to foster brain health and overall well-being. This supplement is an integral part of a holistic strategy designed to augment traditional memory care and cognitive health practices.<\/p>"
+          }
+        },
+        "button_eVT3Yq": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Start Your Assessment",
+            "url": "https:\/\/aj9eo35651k.typeform.com\/to\/cfE8VQKG",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8FNwPT",
+        "heading_hzRhan",
+        "richtext_BxiNeD",
+        "button_eVT3Yq"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_d75fec3e-ea24-43ad-a957-6193c466dba2.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_jdNBYT": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_bgjmiR": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7™’s Comprehensive Approach"
+          }
+        },
+        "heading_kNGNfN": {
+          "type": "heading",
+          "settings": {
+            "text": "Harmonizing Mind and Body for Cognitive Resilience",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_gBFaWh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Advocated by Dr. Nooristani, B7c is recommended as an integral component of a daily health regimen. Designed for thrice-daily consumption, its purpose is to bolster cognitive acuity and fortify immune defenses, thus enhancing life quality for those facing cognitive health challenges.<\/p>"
+          }
+        },
+        "button_cDVTQb": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Take the First Step",
+            "url": "https:\/\/aj9eo35651k.typeform.com\/to\/cfE8VQKG",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bgjmiR",
+        "heading_kNGNfN",
+        "richtext_gBFaWh",
+        "button_cDVTQb"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_B3Af9R": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_xHYLtV": {
+          "type": "subheading",
+          "settings": {
+            "text": "Supporting Cognitive and Immune Well-Being"
+          }
+        },
+        "heading_QKFLye": {
+          "type": "heading",
+          "settings": {
+            "text": "Extending Beyond Just Supplements",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_MeXcmU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>With our continued research and development, Balance7™ is at the forefront of providing a combined solution for cognitive clarity and immune health. Embrace a healthier, more balanced life with us.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xHYLtV",
+        "heading_QKFLye",
+        "richtext_MeXcmU"
+      ],
+      "settings": {
+        "color_scheme": "scheme-ba8b31bb-91c3-4c7d-8120-8aea7b508109",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "multi_column_QVBAWd": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_XA4zgA": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<strong>Eligibility<\/strong>",
+            "heading_tag": "h3",
+            "content": "<p>Our program welcomes individuals facing memory care challenges or cognitive health concerns. This includes those at risk of or currently experiencing memory and cognitive issues.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_cWzYwQ": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<strong>Usage Guidance<\/strong>",
+            "heading_tag": "h3",
+            "content": "<p>Dr. Nooristani recommends a daily regimen of one ounce, administered three times, as a supportive measure in your cognitive health journey.<\/p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_JwgFKh": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<strong>Enrollment<\/strong>",
+            "heading_tag": "h3",
+            "content": "<p>Embark on your path to enhanced cognitive and memory health by completing our detailed online questionnaire. Upon submission, a Balance7 representative will review your responses and get in touch to discuss further steps.<\/p>",
+            "link_url": "https:\/\/aj9eo35651k.typeform.com\/to\/cfE8VQKG",
+            "link_text": "Take the questionnaire now"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_XA4zgA",
+        "image_with_text_cWzYwQ",
+        "image_with_text_JwgFKh"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "",
+        "title": "Participation Opportunity",
+        "content": ""
+      }
+    },
+    "rich_text_8dwLKW": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_CDEDBd": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Embrace Your Journey to Cognitive Clarity<\/h2><p>If you or someone close to you is focusing on managing cognitive health or facing memory care challenges, consider participating in our program. Let’s join hands to work towards a future of greater cognitive clarity and enhanced memory wellness.<\/p>"
+          }
+        },
+        "subheading_yAtXkp": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_AUmikB": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Discover Your Path to Cognitive Wellness",
+            "url": "https:\/\/aj9eo35651k.typeform.com\/to\/cfE8VQKG",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "richtext_CDEDBd",
+        "subheading_yAtXkp",
+        "button_AUmikB"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "newsletter_iNmRGk": {
+      "type": "newsletter",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "subheading": "Keep me updated",
+        "title": "Newsletter",
+        "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
+        "button_text": "Subscribe",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_kMXXfW",
+    "image_with_text_xEXHqz",
+    "image_with_text_jdNBYT",
+    "rich_text_B3Af9R",
+    "multi_column_QVBAWd",
+    "rich_text_8dwLKW",
+    "newsletter_iNmRGk"
+  ]
+}

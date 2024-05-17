@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_blog_title": true,
+        "show_rss_feed": false,
+        "show_tags": true,
+        "posts_per_page": 10,
+        "feature_first_blog_post": false,
+        "featured_blog_post_color_scheme": "",
+        "show_category": true,
+        "show_excerpt": true,
+        "show_read_more": true
+      }
+    },
+    "blog_posts_EVUeDY": {
+      "type": "blog-posts",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "blog": "news",
+        "posts_count": 9,
+        "stack_on_mobile": true,
+        "show_category": false,
+        "show_excerpt": true,
+        "show_read_more": true,
+        "subheading": "",
+        "title": "Blog & News",
+        "content": "",
+        "button_link": "",
+        "button_text": "View all"
+      }
+    },
+    "1712939082afc8c75c": {
+      "type": "apps",
+      "blocks": {
+        "shop_quiz_product_recommender_inline_quiz_jjxGji": {
+          "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "gWHrK0",
+            "quiz_height": 600,
+            "quiz_autoscroll": true,
+            "quiz_fixed_height": false
+          }
+        }
+      },
+      "block_order": [
+        "shop_quiz_product_recommender_inline_quiz_jjxGji"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "blog_posts_EVUeDY",
+    "1712939082afc8c75c"
+  ]
+}
