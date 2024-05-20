@@ -1,0 +1,960 @@
+{
+  "sections": {
+    "rich_text_JEVHtm": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_xc976m": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Balance7 Alkaline Liquid Supplement<\/h1>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_xc976m"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "judge_me_reviews_preview_badge_rHtAfh": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "text_fJEmiH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Balance7™ is not just another supplement. It's a scientifically formulated, all-natural alkalizing solution that combats the acidity in your body, reducing inflammation and supercharging your immune system. <\/p><p>Imagine feeling a surge of vitality, clarity, and wellness in as little as three days. That's the power of Balance7™.<\/p>"
+          }
+        },
+        "text_rQDzVR": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For maximum benefits, ensure three daily servings of Balance7™.<\/strong><\/p>"
+          }
+        },
+        "text_3Fx4N4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Join our subscription plan for an estimated $120 in annual savings—enhance your health journey!<\/strong><\/p>"
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "dropdown",
+            "color_selector_type": "variant",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "accordion_zPhmXJ": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-love",
+            "title": "<strong>Benefits<\/strong>",
+            "content": "<ul><li><strong>Rapid Immunity Boost:<\/strong> Notice a significant enhancement in your immune system's function within just three days.<\/li><li><strong>Alkaline Concentration:<\/strong> Restores your body's pH balance, crucial for overall health.<\/li><li><strong>Energizes and Clarifies: <\/strong>Provides a surge in vitality and mental clarity, driving you towards a more active and focused life.<\/li><li><strong>Promotes Well-being: <\/strong>Supports detoxification and digestion, contributing to a comprehensive approach to your health.<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_wPraFL": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-leaf",
+            "title": "<strong>Key Ingredients<\/strong>",
+            "content": "<p>Ingredients recognized as safe by the FDA: Hydrogenated Water, Naturally-Mined Trisodium Phosphate, Naturally-Mined Sodium Carbonate, Naturally-Mined Sodium Bicarbonate<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_FWKKHU": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-info",
+            "title": "<strong>Directions<\/strong>",
+            "content": "<p>Take 1 ounce three times daily, ideally 30 minutes before or after meals, and for best results, on an empty stomach.<\/p><p><\/p><p>Please do not dilute or mix Balance7 with any other beverages to ensure its effectiveness.<\/p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_z8JyJX": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "picto-comment",
+            "title": "<strong>Usage Tips<\/strong>",
+            "content": "<ul><li>Consistency is key for maximum benefits.<\/li><li>Can be used as a gargle for throat health.<\/li><li>Safe for daily use, with no reported side effects.<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_preview_badge_rHtAfh",
+        "description",
+        "text_fJEmiH",
+        "text_rQDzVR",
+        "text_3Fx4N4",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "price",
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb",
+        "buy_buttons",
+        "accordion_zPhmXJ",
+        "accordion_wPraFL",
+        "accordion_FWKKHU",
+        "accordion_z8JyJX"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "full",
+        "product_info_size": 60,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 0,
+        "mobile_controls": "free_scroll",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "slideshow_cAgVRQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_tXaXHH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance7_banner_website_13_f371661a-d758-4138-a5ca-cbd2f77cae3b.png",
+            "mobile_image": "shopify:\/\/shop_images\/balance7_-_new_posts_34.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tXaXHH"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": true,
+        "media_size": "auto",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#ffffff",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_Rjr479": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Hd3kBB": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7: Taste Your Health"
+          }
+        },
+        "heading_AQiKnr": {
+          "type": "heading",
+          "settings": {
+            "text": "What Does Balance7's Taste Tell You About Your Health?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Ta9PQL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
+          }
+        },
+        "button_Hgkymm": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Learn More",
+            "url": "shopify:\/\/blogs\/news\/balancing-act",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Hd3kBB",
+        "heading_AQiKnr",
+        "richtext_Ta9PQL",
+        "button_Hgkymm"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "scrolling_content_6HADtd": {
+      "type": "scrolling-content",
+      "blocks": {
+        "text_BbcLAx": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Results in 3 days.<\/strong>"
+          }
+        },
+        "text_KXVypj": {
+          "type": "text",
+          "settings": {
+            "text": "M.D. Approved."
+          }
+        },
+        "text_cjjW66": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Natural Ingredients.<\/strong>"
+          }
+        },
+        "text_9Y6iUX": {
+          "type": "text",
+          "settings": {
+            "text": "Stronger Immunity."
+          }
+        },
+        "text_UeXccw": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>#1 Alkaline Concentrate Supplement<\/strong>"
+          }
+        },
+        "text_V8tnQ8": {
+          "type": "text",
+          "settings": {
+            "text": "+6 Million Units Sold Worldwide."
+          }
+        }
+      },
+      "block_order": [
+        "text_BbcLAx",
+        "text_KXVypj",
+        "text_cjjW66",
+        "text_9Y6iUX",
+        "text_UeXccw",
+        "text_V8tnQ8"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "scrolling_speed": 0.3,
+        "scroll_direction": "left",
+        "text_font": "heading",
+        "text_font_size_mobile": 30,
+        "text_font_size_desktop": 28,
+        "section_vertical_spacing_mobile": 38,
+        "section_vertical_spacing_desktop": 10,
+        "item_horizontal_spacing_mobile": 80,
+        "item_horizontal_spacing_desktop": 75,
+        "background": "",
+        "text_color": ""
+      }
+    },
+    "1712938896a3fd5948": {
+      "type": "apps",
+      "blocks": {
+        "shop_quiz_product_recommender_inline_quiz_mxTkBj": {
+          "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "gWHrK0",
+            "quiz_height": 600,
+            "quiz_autoscroll": true,
+            "quiz_fixed_height": false
+          }
+        }
+      },
+      "block_order": [
+        "shop_quiz_product_recommender_inline_quiz_mxTkBj"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true
+      }
+    },
+    "1704926942babb0c6a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_CEndw4": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_CEndw4"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "rich_text_Ckdzfj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ctEDtT": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Balance7™ Alkaline Liquid Supplement?",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_W3BJ6t": {
+          "type": "subheading",
+          "settings": {
+            "text": "A Message from Dr. Ahmad Nooristani, MD & CEO"
+          }
+        },
+        "image_9cmPzt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance7_-_new_posts_10.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "subheading_yNzxrL": {
+          "type": "subheading",
+          "settings": {
+            "text": "<strong>Dr. Ahmad Nooristani, M.D. <\/strong>"
+          }
+        },
+        "richtext_fg8AeM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><strong>The Silent Enemy: Chronic Inflammation.<\/strong><\/h3><p>In the fast-paced rhythm of today’s life, stress, dietary choices, and pollutants push our bodies into an acidic state, fueling chronic inflammation and weakening our immune systems. This can lead to a myriad of health issues, from everyday fatigue and fog to more significant conditions. <\/p><p><br\/><\/p><p>As the CEO of Balance7, I’m excited to share with you our science-backed solution tailored to address these very challenges. Balance7 stands out by effectively alkalizing your body, neutralizing excess acidity, and enhancing the resilience of your immune system. It represents more than just a health supplement; it's a beacon for those seeking to revitalize their health and embrace a life of vitality and well-being.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ctEDtT",
+        "subheading_W3BJ6t",
+        "image_9cmPzt",
+        "subheading_yNzxrL",
+        "richtext_fg8AeM"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_jMyh6N": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_q9crk7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>The Science Behind Balance7<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_q9crk7"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "text_with_icons_WbAiba": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_V3X4ex": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-percent",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "<strong>Alkalinity vs. Acidity<\/strong>",
+            "content": "<p>Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality.<\/p>"
+          }
+        },
+        "item_3YBDQq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-shield",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "<strong>Immune System Activation<\/strong>",
+            "content": "<p>By adjusting your body's pH levels, Balance7™ primes your immune system to better defend against illnesses.<\/p>"
+          }
+        },
+        "item_pM7rFc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-leaf",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "<strong>Natural Ingredients<\/strong>",
+            "content": "<p>Comprising only FDA-recognized, safe, naturally mined ingredients, Balance7™ ensures you're nurturing your body without any harmful effects.<\/p>"
+          }
+        },
+        "item_XFrM3d": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "icon_width": 24,
+            "mobile_icon_width": 24,
+            "title": "<strong>Experience Rapid Results<\/strong>",
+            "content": "<p>Feel the transformative effects of Balance7 in as little as three days.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_V3X4ex",
+        "item_3YBDQq",
+        "item_pM7rFc",
+        "item_XFrM3d"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "stack_on_mobile": true,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    },
+    "multi_column_VjTb9L": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_MYfqr3": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/34.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_aHw3Xe": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/35.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_RaDyXW": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/36.png",
+            "title": "",
+            "heading_tag": "h3",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_MYfqr3",
+        "image_with_text_aHw3Xe",
+        "image_with_text_RaDyXW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "columns_per_row": 5,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "lg",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_8RqDQe": {
+      "type": "multi-column",
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "columns_per_row": 4,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "md",
+        "subheading": "About Balance7™",
+        "title": "The Science Behind Balance7™",
+        "content": ""
+      }
+    },
+    "image_with_text_LTi6mV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WhbCLd": {
+          "type": "heading",
+          "settings": {
+            "text": "How to Experience Balance7™",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_NGKrGd": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Take 1 ounce three times daily, ideally 30 minutes before or after meals, and for best results, on an empty stomach.<\/p><p>Please do not dilute or mix Balance7 with any other beverages to ensure its effectiveness.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WhbCLd",
+        "richtext_NGKrGd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/713cC9s2LXL._AC_UF1000_1000_QL80__20240124_182525308.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_P9jgBQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CmMz7c": {
+          "type": "heading",
+          "settings": {
+            "text": "The Only Supplement You'll Ever Need",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_KzURnB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Over six million bottles have already been part of global health transformations, with 80% of users reporting significant health improvements. Step into the circle of the rejuvenated and discover what it feels like to thrive.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CmMz7c",
+        "richtext_KzURnB"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/713cC9s2LXL._AC_UF1000_1000_QL80__1__20240130_21576445_e468924d-b749-4e3a-9202-28a5a479af40.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "lg",
+        "remove_vertical_spacing": true
+      }
+    },
+    "rich_text_qwWcAF": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_QL7MrX": {
+          "type": "subheading",
+          "settings": {
+            "text": "Real Testimonials"
+          }
+        },
+        "heading_fyQP8T": {
+          "type": "heading",
+          "settings": {
+            "text": "Hear From Users Like You! See How Balance7™ Has Transformed Lives!",
+            "heading_tag": "h1"
+          }
+        },
+        "button_xLBbYz": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Explore Stories",
+            "url": "https:\/\/www.youtube.com\/playlist?list=PLgi7FUyZNv0QMFfRkU6EVA2rnLWcFxxFZ",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "richtext_PmiUTj": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Watch as Valerie shares her incredible recovery story, overcoming the challenges posed by Covid with the help of Balance7™.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_QL7MrX",
+        "heading_fyQP8T",
+        "button_xLBbYz",
+        "richtext_PmiUTj"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_mM9Pn6": {
+      "type": "video",
+      "blocks": {
+        "play_h9EMaf": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_h9EMaf"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=qAl6wCaIbNg",
+        "poster": "shopify:\/\/shop_images\/Screenshot_2024-03-25_at_2.51.38_PM.png",
+        "text_color": "#ffffff"
+      }
+    },
+    "rich_text_63x4it": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Apeq33": {
+          "type": "heading",
+          "settings": {
+            "text": "View Testimonial Playlist",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PDXk4C": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Explore firsthand accounts of transformation and wellness through our curated YouTube playlist of testimonials. Witness the powerful impact of Balance7 on individuals just like you.<\/p>"
+          }
+        },
+        "button_WQEJch": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Start Watching",
+            "url": "https:\/\/www.youtube.com\/playlist?list=PLgi7FUyZNv0QMFfRkU6EVA2rnLWcFxxFZ",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Apeq33",
+        "richtext_PDXk4C",
+        "button_WQEJch"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_k7Ankh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_L9EzbV": {
+          "type": "subheading",
+          "settings": {
+            "text": "DR. NOORISTANI, M.D. PRESENTS"
+          }
+        },
+        "heading_iEMCn7": {
+          "type": "heading",
+          "settings": {
+            "text": "How does Balance7™ work?",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_L9EzbV",
+        "heading_iEMCn7"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_Wtdwac": {
+      "type": "video",
+      "blocks": {
+        "play_hizdXj": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_hizdXj"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/Your Health Balance 7.2_1min.mp4",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff"
+      }
+    },
+    "featured_product_A8HLbf": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_AW3bgj": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "title_MJwewq": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_qNaTyd": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price_brkGED": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_fGAR4k": {
+          "type": "rating",
+          "settings": {
+            "show_empty": true,
+            "rating_mode": "rating"
+          }
+        },
+        "payment_terms_MVEXtX": {
+          "type": "payment_terms",
+          "settings": {
+          }
+        },
+        "separator_XytQxr": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "description_AW4Gft": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_7Xk4n6": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_type": "block",
+            "color_selector_type": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_9ckwVj": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_HeyGew": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_FPt4GG": {
+          "type": "pickup_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor_AW3bgj",
+        "title_MJwewq",
+        "badges_qNaTyd",
+        "price_brkGED",
+        "rating_fGAR4k",
+        "payment_terms_MVEXtX",
+        "separator_XytQxr",
+        "description_AW4Gft",
+        "variant_picker_7Xk4n6",
+        "quantity_selector_9ckwVj",
+        "buy_buttons_HeyGew",
+        "pickup_availability_FPt4GG"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "product": "11-day-starter-kit",
+        "separate_section_with_border": true,
+        "container_size": "lg",
+        "product_info_size": 45,
+        "center_basic_info": false,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_grid_gap": 30,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "subheading": "",
+        "title": "Unlock Your Health Potential: Try Our 11-Day Trial Kit",
+        "content": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "recommendations_count": 3,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Customers Also Bought",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "rich_text_JEVHtm",
+    "main",
+    "slideshow_cAgVRQ",
+    "rich_text_Rjr479",
+    "scrolling_content_6HADtd",
+    "1712938896a3fd5948",
+    "1704926942babb0c6a",
+    "rich_text_Ckdzfj",
+    "rich_text_jMyh6N",
+    "text_with_icons_WbAiba",
+    "multi_column_VjTb9L",
+    "multi_column_8RqDQe",
+    "image_with_text_LTi6mV",
+    "image_with_text_P9jgBQ",
+    "rich_text_qwWcAF",
+    "video_mM9Pn6",
+    "rich_text_63x4it",
+    "rich_text_k7Ankh",
+    "video_Wtdwac",
+    "featured_product_A8HLbf",
+    "related-products"
+  ]
+}

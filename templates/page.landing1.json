@@ -1,8 +1,0 @@
-{
-  "sections": {
-    "main": {
-      "type": "landing1"
-    }
-  },
-  "order": ["main"]
-}

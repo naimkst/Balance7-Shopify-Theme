@@ -1,0 +1,369 @@
+{
+  "sections": {
+    "slideshow_BN8t63": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Hai6ya": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balance7_banner_website_1024_x_900_px_3000_x_1200_px_1.png",
+            "mobile_image": "shopify:\/\/shop_images\/balance7_-_new_posts_35_ec898cd7-f2e7-468f-98ea-734a444099bf.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 400,
+            "button_1_text": "Shop Now",
+            "button_1_link": "https:\/\/balance7.com\/products\/balance7-alkaline-liquid-supplement",
+            "button_1_style": "solid",
+            "button_1_background": "#b3fe05",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0) 4%, rgba(4, 4, 4, 0) 96%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_Hai6ya"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_WTFp3T": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rnT3WX": {
+          "type": "heading",
+          "settings": {
+            "text": "#1 Alkaline Concentrate Supplement",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rnT3WX"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": false,
+        "show_image": false,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_breadcrumb": false,
+        "content_width": "lg",
+        "overlay_color": "#000000",
+        "overlay_opacity": 3
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 46,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": true,
+        "show_empty_filter_values": true,
+        "show_filter_values_count": true,
+        "show_color_swatch": true,
+        "open_filters_by_default": true
+      }
+    },
+    "rich_text_iUbPVb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_ti3XC3": {
+          "type": "subheading",
+          "settings": {
+            "text": "Balance7: Taste Your Health"
+          }
+        },
+        "heading_iF3Rtp": {
+          "type": "heading",
+          "settings": {
+            "text": "What Does Balance7's Taste Tell You About Your Health?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_iAWefB": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
+          }
+        },
+        "button_h6BH8F": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Learn More",
+            "url": "shopify:\/\/blogs\/news\/balancing-act",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ti3XC3",
+        "heading_iF3Rtp",
+        "richtext_iAWefB",
+        "button_h6BH8F"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "separate_section_with_border": true,
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_CyfcLD": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_DLNEJy": {
+          "type": "subheading",
+          "settings": {
+            "text": "Quiz Time"
+          }
+        },
+        "heading_mKLnLb": {
+          "type": "heading",
+          "settings": {
+            "text": "Will Balance7 Work for Me?",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ckpawb": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Answer a few questions to see if Balance7 is a good fit for you!<\/p>"
+          }
+        },
+        "button_QUJdaK": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Take the quiz now!",
+            "url": "#quiz-gWHrK0",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_DLNEJy",
+        "heading_mKLnLb",
+        "richtext_ckpawb",
+        "button_QUJdaK"
+      ],
+      "settings": {
+        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
+        "separate_section_with_border": false,
+        "image": "shopify:\/\/shop_images\/balance7_-_new_posts_32.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    },
+    "slideshow_69JPzg": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9dYqqm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance7_Bundle_6.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "content_max_width": 760,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(255, 255, 255, 0), rgba(4, 4, 4, 0) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_9dYqqm"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "autoplay": false,
+        "autoplay_pause_on_video": false,
+        "cycle_speed": 4,
+        "background": "#ffffff",
+        "controls_color": "#ffffff"
+      }
+    },
+    "rich_text_LHfb6M": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3RaCYw": {
+          "type": "heading",
+          "settings": {
+            "text": "11-Day Journey to Wellness Promotional Bundle",
+            "heading_tag": "h1"
+          }
+        },
+        "button_qYxyiC": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop now",
+            "url": "https:\/\/balance7.com\/products\/balance7-bundle-limited-time-offer",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3RaCYw",
+        "button_qYxyiC"
+      ],
+      "settings": {
+        "color_scheme": "scheme-ebe0f078-47cb-4876-a5b6-ae65c315560b",
+        "separate_section_with_border": false,
+        "content_width": "md",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "rich_text_zVYkfG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4TcUGj": {
+          "type": "subheading",
+          "settings": {
+            "text": "DR. NOORISTANI, M.D. PRESENTS"
+          }
+        },
+        "heading_rXfnCy": {
+          "type": "heading",
+          "settings": {
+            "text": "How does Balance7™ work?",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4TcUGj",
+        "heading_rXfnCy"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "md",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "video_jQ67PW": {
+      "type": "video",
+      "blocks": {
+        "play_nrUk3L": {
+          "type": "play",
+          "settings": {
+            "icon_color": "#0437f2"
+          }
+        }
+      },
+      "block_order": [
+        "play_nrUk3L"
+      ],
+      "settings": {
+        "autoplay": false,
+        "show_controls": true,
+        "video_size": "auto",
+        "video": "shopify:\/\/files\/videos\/Your Health Balance 7.2_1min.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "17049278253b4090d9": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_FXFqYW": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_FXFqYW"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "slideshow_BN8t63",
+    "rich_text_WTFp3T",
+    "collection-banner",
+    "main",
+    "rich_text_iUbPVb",
+    "image_with_text_CyfcLD",
+    "slideshow_69JPzg",
+    "rich_text_LHfb6M",
+    "rich_text_zVYkfG",
+    "video_jQ67PW",
+    "17049278253b4090d9"
+  ]
+}
