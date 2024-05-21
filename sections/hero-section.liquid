@@ -1,0 +1,221 @@
+<div class="b-section hero-area">
+  <div class="container-fluid-bt">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="hero-text wow fadeInLeftSlow" data-wow-duration="1000ms">
+          <span>
+            <i><img
+                src="{{ section.settings.slug_icon |  image_url: width: 50 }}"
+                width=""
+                height=""
+                alt=""></i>
+            {{ section.settings.slug_title }}</span>
+          <h1>{{ section.settings.section_title }}</h1>
+          <p>{{ section.settings.section_description }}</p>
+
+          <div class="hero-btn">
+            <ul>
+              <li><a href="{{ section.settings.button_link }}" class="theme-btn">{{ section.settings.button_text }}</a></li>
+              <li><a href="{{ section.settings.testimonial_link }}">{{ section.settings.testimonial_text }}</a></li>
+            </ul>
+          </div>
+
+          <div class="bottom-features">
+            <small>{{ section.settings.featured_text }}</small>
+            <ul>
+              {% if section.settings.featured_image_1 != blank %}
+                <li><img
+                    src="{{ section.settings.featured_image_1 |  image_url: width: 300 }}"
+                    width=""
+                    height=""
+                    alt=""></li>
+              {% endif %}
+              {% if section.settings.featured_image_2 != blank %}
+                <li><img
+                    src="{{ section.settings.featured_image_2 |  image_url: width: 300 }}"
+                    width=""
+                    height=""
+                    alt=""></li>
+              {% endif %}
+              {% if section.settings.featured_image_3 != blank %}
+                <li><img
+                    src="{{ section.settings.featured_image_3 |  image_url: width: 300 }}"
+                    width=""
+                    height=""
+                    alt=""></li>
+              {% endif %}
+              {% if section.settings.featured_image_4 != blank %}
+                <li><img
+                    src="{{ section.settings.featured_image_4 |  image_url: width: 300 }}"
+                    width=""
+                    height=""
+                    alt=""></li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="hero-right-img-wrap">
+          <div class="hero-right-img-left">
+            {% for block in section.blocks %}
+              {% if forloop.index == 1 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="1000ms">
+                  <img
+                    src="{{ block.settings.feature_images |  image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+              {% if forloop.index == 2 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="1200ms">
+                  <img
+                    src="{{ block.settings.feature_images | image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+              {% if forloop.index == 3 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="1400ms">
+                  <img
+                    src="{{ block.settings.feature_images | image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          <div class="hero-right-img-right">
+            {% for block in section.blocks %}
+              {% if forloop.index == 4 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="1600ms">
+                  <img
+                    src="{{ block.settings.feature_images | image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+              {% if forloop.index == 5 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="1800ms">
+                  <img
+                    src="{{ block.settings.feature_images | image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+              {% if forloop.index == 6 %}
+                <div class="hero-right-img wow fadeInUp" data-wow-duration="2000ms">
+                  <img
+                    src="{{ block.settings.feature_images | image_url: width: 500  }}"
+                    alt=""
+                    width=""
+                    height="">
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Hero Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "slug_icon",
+        "label": "Slug Icon"
+      },
+      {
+        "type": "text",
+        "id": "slug_title",
+        "label": "Slug Title",
+        "default": "OVER 6 MILLION BOTTLES SOLD"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Slug Title",
+        "default": "#1 Alkaline Concentration Supplement"
+      },
+      {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "Revitalize your immune system in just 3 days with Balance7™"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Balance7"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }, {
+        "type": "text",
+        "id": "testimonial_text",
+        "label": "Testimonial Text",
+        "default": "Read Testimonials"
+      }, {
+        "type": "url",
+        "id": "testimonial_link",
+        "label": "Testimonial Link"
+
+      }, {
+        "type": "text",
+        "id": "featured_text",
+        "label": "Featured Text",
+        "default": "As Featured In"
+      }, {
+        "type": "image_picker",
+        "id": "featured_image_1",
+        "label": "Featured Image 1"
+      }, {
+        "type": "image_picker",
+        "id": "featured_image_2",
+        "label": "Featured Image 2"
+      }, {
+        "type": "image_picker",
+        "id": "featured_image_3",
+        "label": "Featured Image 3"
+      }, {
+        "type": "image_picker",
+        "id": "featured_image_4",
+        "label": "Featured Image 4"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Banner Images",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "feature_images",
+            "label": "Image"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing Hero Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

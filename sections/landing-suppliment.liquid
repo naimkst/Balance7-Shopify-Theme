@@ -1,0 +1,108 @@
+<!-- suppliment-area -->
+<div class="b-section suppliment-area section-padding">
+  <div class="container-bt">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="section-title">
+          <span>{{ section.settings.section_slug }}</span>
+          <h2>{{ section.settings.section_title }}</h2>
+          <p>{{ section.settings.section_description }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="suppliment-wrap">
+      <div class="row">
+        {% for block in section.blocks %}
+          <div class="col-lg-4 col-md-12 col-12">
+            <div class="suppliment-item wow fadeInUp" data-wow-duration="1000ms">
+              <div class="suppliment-img">
+                <img
+                  src="{{ block.settings.feature_images |  image_url: width: 600  }}"
+                  width=""
+                  height=""
+                  alt="">
+              </div>
+              <div class="suppliment-text">
+                <h2>{{ block.settings.feature_title }}</h2>
+                <p>{{ block.settings.feature_description }}</p>
+                <a href="{{ block.settings.button_link }}">{{ block.settings.button_text }}</a>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Suppliment Are Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_slug",
+        "label": "Section Slug",
+        "default": "Proven Results, Natural Solution"
+      }, {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "The Best of Alkaline Supplements"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "The only supplement you will ever need"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "feature_images",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "feature_title",
+            "label": "Title",
+            "default": "Shop Balance7™"
+
+          },
+          {
+            "type": "text",
+            "id": "feature_description",
+            "label": "Description",
+            "default": "Increase your energy and invigorate your well-being with high alkaline concentrate."
+          },
+          {
+            "type": "text",
+            "id": "button_text",
+            "label": "Button Text",
+            "default": "Shop Now"
+          }, {
+            "type": "url",
+            "id": "button_link",
+            "label": "URL"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Suppliment Are Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

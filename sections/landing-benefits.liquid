@@ -1,0 +1,210 @@
+<!-- benefits-area -->
+<div class="b-section benefits-area section-padding">
+  <div class="container-bt">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="section-title style-2">
+          <span>{{ section.settings.section_slug }}</span>
+          <h2>{{ section.settings.section_title }}</h2>
+          <p>{{ section.settings.section_description }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="benefits-wrap">
+      <div class="row align-items-center">
+        <div class="col-lg-4 col-md-12 col-12 order-lg-1 order-2">
+          <div class="benefits-item wow fadeInLeftSlow" data-wow-duration="1000ms">
+            {% for block in section.blocks %}
+              {% if forloop.index == 1 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 2 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 3 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-12 col-12 order-lg-2 order-1">
+          <div class="benefits-img wow fadeInUp" data-wow-duration="1000ms">
+            <img
+              src="{{ section.settings.section_image |  image_url: width: 900  }}"
+              alt=""
+              width=""
+              height="">
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-12 col-12 order-lg-3 order-3">
+          <div class="benefits-item wow fadeInRightSlow" data-wow-duration="1000ms">
+            {% for block in section.blocks %}
+              {% if forloop.index == 4 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 5 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 7 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 6 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="benefits-icon">
+                      <i><img
+                          src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                          alt=""
+                          width=""
+                          height=""></i>
+                    </div>
+                    <h3>{{ block.settings.feature_title }}</h3>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="shop-btn text-center">
+        <a href="{{ section.settings.button_link }}" class="theme-btn">{{ section.settings.button_text }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Benefits Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_slug",
+        "label": "Section Slug",
+        "default": "See results in just 3 days"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "The 7 Benefits of Balance7™"
+      },
+      {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "The ideal pH level for the human body is 7. Our Balance7 supplement can also has 7 key benefits to improve your health."
+      },
+      {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }, {
+        "type": "image_picker",
+        "id": "section_image",
+        "label": "Section Image"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "feature_images",
+            "label": "Image"
+          }, {
+            "type": "text",
+            "id": "feature_title",
+            "label": "Title",
+            "default": "More Energy"
+
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing Benefits Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

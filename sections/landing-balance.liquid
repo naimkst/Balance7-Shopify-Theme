@@ -1,0 +1,128 @@
+<!-- balance-area -->
+<div class="b-section balance-area section-padding">
+  <div class="container-bt">
+    <div class="balance-wrap">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="balance-img wow fadeInLeftSlow" data-wow-duration="1000ms">
+            <img
+              src="{{ section.settings.video_thumbnail |  image_url: width: 700  }}"
+              width=""
+              height=""
+              alt="">
+            <div class="image_slug">
+              {{ section.settings.section_slug }}
+            </div>
+            <div class="video-btn">
+              <a
+                href="{{ section.settings.video_link }}"
+                data-type="iframe"
+                class="open-video"><img
+                  src="{{ 'video-btn.svg' | asset_url }}"
+                  width=""
+                  height=""
+                  alt=""></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="balance-text wow fadeInRightSlow" data-wow-duration="1000ms">
+            <h2>{{ section.settings.section_title }}</h2>
+            <p>{{ section.settings.section_description }}</p>
+
+            <div class="row">
+              {% for block in section.blocks %}
+                <div class="col-lg-6 col-md-6 col-12">
+                  <div class="balance-features">
+                    <h3>{{ block.settings.item_item }}</h3>
+                    <h4>{{ block.settings.feature_title }}</h4>
+                    <p>{{ block.settings.feature_description }}</p>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+            <a class="theme-btn" href="{{ section.settings.button_link }}">{{ section.settings.button_text }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Balance Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "video_thumbnail",
+        "label": "Video Thumbnail Image"
+      },
+      {
+        "type": "url",
+        "id": "video_link",
+        "label": "Video Link"
+      },
+      {
+        "type": "richtext",
+        "id": "section_slug",
+        "label": "Image Slug",
+        "default": "<p><span> <strong>Watch:</strong> How Does Balance7™ Work?</span></p>"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "What is in Balance7™?™"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "Combining the best of nature with scientific research to offer products that support the body's natural healing processes."
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "text",
+            "id": "item_item",
+            "label": "Item Number",
+            "default": "01"
+          }, {
+            "type": "text",
+            "id": "feature_title",
+            "label": "Title",
+            "default": "Hydrogenated water"
+          }, {
+            "type": "text",
+            "id": "feature_description",
+            "label": "Title",
+            "default": "Increases anti-inflamatory and antioxidant properties in water"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing Balance Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

@@ -1,0 +1,102 @@
+<!-- testimonial-area -->
+<div class="b-section testimonial-area section-padding">
+  <div class="container-bt">
+    <div class="testimonial-wrap">
+      <div class="testimonial-img">
+        <div class="testimonial-text">
+          <h2>{{ section.settings.section_title }}</h2>
+          <p>{{ section.settings.section_description }}</p>
+          <div class="video">
+            <ul>
+              <li>
+                <a
+                  href="{{ section.settings.video_link }}"
+                  data-type="iframe"
+                  class="open-video"><img
+                    src="{{ 'video2.svg' | asset_url }}"
+                    width=""
+                    height=""
+                    alt=""></a>
+              </li>
+              <li>{{ section.settings.section_slug }}</li>
+            </ul>
+          </div>
+        </div>
+        <img
+          class="t-bg"
+          src="{{ section.settings.video_thumbnail | image_url: width: 1920 }}"
+          width=""
+          height=""
+          alt="">
+      </div>
+      <div class="testimonial-bottom">
+        <div class="testimonial-inner">
+          <h2>{{ section.settings.testimonial_text }}</h2>
+          <p>{{ section.settings.testimonial_description }}</p>
+          <a href="{{ section.settings.button_link }}" class="theme-btn">{{ section.settings.button_text }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Testimonial",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "video_thumbnail",
+        "label": "Video Thumbnail Image"
+      },
+      {
+        "type": "url",
+        "id": "video_link",
+        "label": "Video Link"
+      },
+      {
+        "type": "text",
+        "id": "section_slug",
+        "label": "Vieo Slug",
+        "default": "Watch: Denise Wasson"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Denise Wasson - Cancer Survivor"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "With the help of Balance7™, Denise is here today. She is NOT a paid actor."
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }, {
+        "type": "text",
+        "id": "testimonial_text",
+        "label": "Testimonial Text",
+        "default": "View More Testimonials"
+      }, {
+        "type": "text",
+        "id": "testimonial_description",
+        "label": "Testimonial Description",
+        "default": "Explore firsthand accounts of transformation and wellness through our curated YouTube playlist of testimonials. Witness the powerful impact of Balance7 on individuals just like you."
+
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Testimonial"
+      }
+    ]
+  }
+{% endschema %}
