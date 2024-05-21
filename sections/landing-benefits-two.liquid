@@ -1,0 +1,154 @@
+<!-- benefits-area -->
+<div class="b-section benefits-area style-2 section-padding" style="background: url({{ "bimgbg.jpg" |  asset_url }}) no-repeat center top; background-size: cover;">
+  <div class="container-bt">
+    <div class="benefits-wrap">
+      <div class="row align-items-center">
+        <div class="col-lg-12 order-lg-1 order-2">
+          <div class="title">
+            <h2>{{ section.settings.section_title }}</h2>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-12 col-12 order-lg-2 order-3">
+          <div class="benefits-item wow fadeInLeftSlow" data-wow-duration="1000ms">
+            {% for block in section.blocks %}
+              {% if forloop.index == 1 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="icon">
+                      <i><img
+                          src="{{ 'check.svg' |  asset_url }}"
+                          width=""
+                          height=""
+                          alt=""></i>
+                    </div>
+                    <h3>{{ block.settings.title }}</h3>
+                    <p>{{ block.settings.description }}</p>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 2 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="icon">
+                      <i><img
+                          src="{{ 'check.svg' |  asset_url }}"
+                          width=""
+                          height=""
+                          alt=""></i>
+                    </div>
+                    <h3>{{ block.settings.title }}</h3>
+                    <p>{{ block.settings.description }}</p>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-12 order-lg-3 order-1">
+          <div class="benefits-img wow fadeInUp" data-wow-duration="1000ms">
+            <img
+              src="{{ section.settings.section_image |  image_url: width: 900 }}"
+              alt=""
+              width=""
+              height="">
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-12 col-12 order-lg-4 order-4">
+          <div class="benefits-item wow fadeInRightSlow" data-wow-duration="1000ms">
+            {% for block in section.blocks %}
+              {% if forloop.index == 3 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="icon">
+                      <i><img
+                          src="{{ 'check.svg' |  asset_url }}"
+                          width=""
+                          height=""
+                          alt=""></i>
+                    </div>
+                    <h3>{{ block.settings.title }}</h3>
+                    <p>{{ block.settings.description }}</p>
+                  </div>
+                </div>
+              {% endif %}
+              {% if forloop.index == 4 %}
+                <div class="benefits-content">
+                  <div class="benefits-content-inner">
+                    <div class="icon">
+                      <i><img
+                          src="{{ 'check.svg' |  asset_url }}"
+                          width=""
+                          height=""
+                          alt=""></i>
+                    </div>
+                    <h3>{{ block.settings.title }}</h3>
+                    <p>{{ block.settings.description }}</p>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="shop-btn text-center">
+        <a href="{{ section.settings.button_link }}" class="theme-btn">{{ section.settings.button_text }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing2 Benefits Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "The 7 Benefits of Balance7™"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }, {
+        "type": "image_picker",
+        "id": "section_image",
+        "label": "Section Image"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "More Energy"
+          }, {
+            "type": "text",
+            "id": "description",
+            "label": "Description",
+            "default": "The natural way to bolster immunity."
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing2 Benefits Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

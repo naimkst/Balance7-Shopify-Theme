@@ -668,6 +668,94 @@
         "button_link": "",
         "section_image": "shopify:\/\/shop_images\/quiz-bg.jpg"
       }
+    },
+    "landing_hero_section_wnPMRq": {
+      "type": "landing-hero-section",
+      "blocks": {
+        "block_dUkiwh": {
+          "type": "block",
+          "settings": {
+            "feature_images": "shopify:\/\/shop_images\/f1.png"
+          }
+        },
+        "block_cp9dTg": {
+          "type": "block",
+          "settings": {
+            "feature_images": "shopify:\/\/shop_images\/f2.png"
+          }
+        },
+        "block_KCEFLi": {
+          "type": "block",
+          "settings": {
+            "feature_images": "shopify:\/\/shop_images\/f3.png"
+          }
+        },
+        "block_BhBgUU": {
+          "type": "block",
+          "settings": {
+            "feature_images": "shopify:\/\/shop_images\/f4.png"
+          }
+        }
+      },
+      "block_order": [
+        "block_dUkiwh",
+        "block_cp9dTg",
+        "block_KCEFLi",
+        "block_BhBgUU"
+      ],
+      "settings": {
+        "slug_icon": "shopify:\/\/shop_images\/tt.png",
+        "slug_title": "OVER 6 MILLION BOTTLES SOLD",
+        "section_title": "Meet Balance7™",
+        "section_subtitle": "Elevating Balance & Immunity through Alkalinity",
+        "section_description": "Balance7™ is a pioneering wellness solution, built on scientifically validated, natural elements. Our aim? To significantly amplify your immunity and elevate your health journey.",
+        "featured_text": "As Featured In"
+      }
+    },
+    "landing_benefits_two_rtfJtw": {
+      "type": "landing-benefits-two",
+      "blocks": {
+        "block_z3tr3g": {
+          "type": "block",
+          "settings": {
+            "title": "Earth-Sourced Minerals",
+            "description": "The natural way to bolster immunity."
+          }
+        },
+        "block_Hnhb7f": {
+          "type": "block",
+          "settings": {
+            "title": "Pure Hydrogenated Water",
+            "description": "Hydration meets immunity."
+          }
+        },
+        "block_hRLDiY": {
+          "type": "block",
+          "settings": {
+            "title": "Perfect pH, Perfect Balance",
+            "description": "Enhance your body's natural defenses."
+          }
+        },
+        "block_awGLU9": {
+          "type": "block",
+          "settings": {
+            "title": "Fortify Immunity, the Nature's Way",
+            "description": "Reinforce your body's shield against ailments"
+          }
+        }
+      },
+      "block_order": [
+        "block_z3tr3g",
+        "block_Hnhb7f",
+        "block_hRLDiY",
+        "block_awGLU9"
+      ],
+      "settings": {
+        "section_title": "Strengthen Immunity the Natural Way",
+        "button_text": "Shop Now",
+        "button_link": "",
+        "section_image": "shopify:\/\/shop_images\/bimg2.png"
+      }
     }
   },
   "order": [
@@ -692,6 +780,8 @@
     "landing_balance_ceaPVG",
     "landing_testimonail_PXpdJk",
     "landing_details_twULA8",
-    "landing_quiz_PYYkn7"
+    "landing_quiz_PYYkn7",
+    "landing_hero_section_wnPMRq",
+    "landing_benefits_two_rtfJtw"
   ]
 }

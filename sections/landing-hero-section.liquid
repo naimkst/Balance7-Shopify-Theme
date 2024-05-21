@@ -1,0 +1,96 @@
+<div class="b-section hero-area style2">
+  <div class="container-fluid-bt">
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="hero-text wow fadeInUp" data-wow-duration="1000ms">
+          <span>
+            <i><img
+                src="{{section.settings.slug_icon |  image_url: width:50 }}"
+                alt=""
+                width=""
+                height=""></i>
+            {{ section.settings.slug_title }}</span>
+          <h1>{{ section.settings.section_title }}</h1>
+          <h3>{{ section.settings.section_subtitle }}</h3>
+          <p>{{ section.settings.section_description }}</p>
+          <div class="bottom-features">
+            <small>{{ section.settings.featured_text }}</small>
+            <ul>
+              {% for block in section.blocks %}
+                <li><img
+                    src="{{ block.settings.feature_images |  image_url: width: 300 }}"
+                    width=""
+                    height=""
+                    alt=""></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing2 Hero Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "slug_icon",
+        "label": "Slug Icon"
+      },
+      {
+        "type": "text",
+        "id": "slug_title",
+        "label": "Slug Title",
+        "default": "OVER 6 MILLION BOTTLES SOLD"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Title",
+        "default": "Meet Balance7™"
+      },
+      {
+        "type": "text",
+        "id": "section_subtitle",
+        "label": "Sub Title",
+        "default": "Elevating Balance & Immunity through Alkalinity"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "Balance7™ is a pioneering wellness solution, built on scientifically validated, natural elements. Our aim? To significantly amplify your immunity and elevate your health journey."
+      }, {
+        "type": "text",
+        "id": "featured_text",
+        "label": "Featured Text",
+        "default": "As Featured In"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Banner Images",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "feature_images",
+            "label": "Image"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing2 Hero Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

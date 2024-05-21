@@ -1,0 +1,74 @@
+<!-- banner-area -->
+<div class="b-section banner-area section-padding">
+  <div class="container-bt">
+    <div class="banner-wrap">
+      <div class="row align-items-center">
+        <div class="col-lg-7 col-md-12 col-12">
+          <div class="banner-item wow fadeInLeftSlow" data-wow-duration="1000ms">
+            <div class="banner-img">
+              <img
+                src="{{ section.settings.section_image |  image_url: width: 900  }}"
+                width=""
+                height=""
+                alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-5 col-md-12 col-12">
+          <div class="banner-text wow fadeInRightSlow" data-wow-duration="1000ms">
+            <h2>{{ section.settings.section_slug }}</h2>
+            <h3>{{ section.settings.section_title }}</h3>
+            {{ section.settings.section_description }}
+            <a href="{{ section.settings.button_link }}" class="theme-btn-s2">{{ section.settings.button_text }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Banner Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "section_image",
+        "label": "Section Image"
+      },
+      {
+        "type": "text",
+        "id": "section_slug",
+        "label": "Section Slug",
+        "default": "Limited Time Offer:™"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Save 10%"
+      },
+      {
+        "type": "richtext",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "<p>Shop now to boost your immunity journey. Use coupon code <strong>BALANCEYOURPH</strong> at checkout.</p>"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Banner Section"
+      }
+    ]
+  }
+{% endschema %}
