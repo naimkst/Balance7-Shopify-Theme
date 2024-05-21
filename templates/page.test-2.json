@@ -756,6 +756,17 @@
         "button_link": "",
         "section_image": "shopify:\/\/shop_images\/bimg2.png"
       }
+    },
+    "landing_banner_AYweAV": {
+      "type": "landing-banner",
+      "settings": {
+        "section_image": "shopify:\/\/shop_images\/banner1.jpg",
+        "section_slug": "Limited Time Offer:™",
+        "section_title": "Save 10%",
+        "section_description": "<p>Shop now to boost your immunity journey. Use coupon code <strong>BALANCEYOURPH<\/strong> at checkout.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -782,6 +793,7 @@
     "landing_details_twULA8",
     "landing_quiz_PYYkn7",
     "landing_hero_section_wnPMRq",
-    "landing_benefits_two_rtfJtw"
+    "landing_benefits_two_rtfJtw",
+    "landing_banner_AYweAV"
   ]
 }
