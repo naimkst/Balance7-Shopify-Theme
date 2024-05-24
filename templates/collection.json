@@ -98,7 +98,7 @@
         "vertical_spacing_factor": 1,
         "filter_layout": "drawer",
         "quick_links_menu": "",
-        "show_sort_by": true,
+        "show_sort_by": false,
         "show_filters": true,
         "show_results_count": true,
         "show_filter_group_name": true,

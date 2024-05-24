@@ -8,365 +8,6 @@
         "page_width": "xs"
       }
     },
-    "rich_text_kMXXfW": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_kFNhWi": {
-          "type": "subheading",
-          "settings": {
-            "text": "Life needs Balance(7)!"
-          }
-        },
-        "richtext_9RCUKB": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h1><strong>Testimonials that Stir the Soul!<\/strong><\/h1><h4>Stories of Renewal, Joy, and Transformation!<\/h4>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_kFNhWi",
-        "richtext_9RCUKB"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": true
-      }
-    },
-    "rich_text_Dnmdpm": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_BLJ3aQ": {
-          "type": "heading",
-          "settings": {
-            "text": "Denise Wasson",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_BLJ3aQ"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_6rARRM": {
-      "type": "video",
-      "blocks": {
-        "play_DnXjjr": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "play_DnXjjr"
-      ],
-      "disabled": true,
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/0510 (1)(1).mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "rich_text_abjYEX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_TCNCiH": {
-          "type": "heading",
-          "settings": {
-            "text": "Lamar Odom - NBA Basketball Player",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_TCNCiH"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_E8xAcr": {
-      "type": "video",
-      "blocks": {
-        "play_fibffd": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "play_fibffd"
-      ],
-      "disabled": true,
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/0510 (1).mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "rich_text_EiWG94": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gr9eVA": {
-          "type": "heading",
-          "settings": {
-            "text": "Lisa Kruitbosch - 2 time Cancer Survivor",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_gr9eVA"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_hcGkBH": {
-      "type": "video",
-      "blocks": {
-        "play_EVD46b": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "play_EVD46b"
-      ],
-      "disabled": true,
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/0510 (1)(3).mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "rich_text_EGdh6N": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Kkmz8D": {
-          "type": "heading",
-          "settings": {
-            "text": "Jeanette Vierra",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Kkmz8D"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_pnKt4j": {
-      "type": "video",
-      "blocks": {
-        "play_zJgbJR": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "play_zJgbJR"
-      ],
-      "disabled": true,
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/0510 (1)_d8b050ce-d8df-4354-8d3f-8fd527ebd34f.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "rich_text_maEgWY": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_dHAqH8": {
-          "type": "heading",
-          "settings": {
-            "text": "Katarina Castillo",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_dHAqH8"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_chCrFk": {
-      "type": "video",
-      "blocks": {
-        "play_EUGx4r": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "play_EUGx4r"
-      ],
-      "disabled": true,
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/0510 (1)(2).mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
-    },
-    "faq_VFC3wh": {
-      "type": "faq",
-      "blocks": {
-        "question_hm86kf": {
-          "type": "question",
-          "settings": {
-            "question": "Bruce Fleisher - Professional golfer",
-            "answer": "<p>Let me start out by saying thank God for Balance7™. I had a horrific fungus that began at the age of 70. I couldn't believe it: I went to 2 different dermatologists, 3 different doctors had laser every remedy you could imaginable under the sun – and still no progress. You can only imagine how disappointed I was after spending thousands of dollars trying to understand what's going on. I used to have the most beautiful nails – something I was very proud of. For those of you who don't understand how the fingernails work, there are seven layers of nails that make up one fingernail. I had only three left. That's why when I bang my nails into something firm it would send me to the roof. I was very upset and even got to where I had to wear gloves so that I didn't have to look at them. I had my doubts but was willing to try anything at this point. Thank God again for Balance 7™. You told me for 20 minutes the following four days soak my nails and see what happens. Guess what? Fungus is gone, and now I'm just waiting for my nailbeds to regrow. Again thank you for all you've done for me – and thank God for Balance7™.<\/p>"
-          }
-        },
-        "question_NkWyEA": {
-          "type": "question",
-          "settings": {
-            "question": "Greg Nickel",
-            "answer": "<p>I am 48 years old. After two weeks of taking Balance 7™ the pain and swelling from my knee injury from laying floors without kneepads were totally gone. Swelling reduced within a week, and I was totally pain-free in 2 weeks. I can kneel without any pain and have full mobility. Further, I have a noticeable reduction of inflammation in my entire body resulting in increased joint mobility. I can touch my toes – I have not been able to do that since I was a young boy. I also have less bulky tissue, which has made my entire body trimmer. I have noticeably more energy and crispness of thought. What a great product!<\/p>"
-          }
-        },
-        "question_CQT837": {
-          "type": "question",
-          "settings": {
-            "question": "Cathy",
-            "answer": "<p>Balance 7™ has been a major factor in helping my now 82-year-old mom beat cancer twice in the last 18 months. The doctors told us she would be dead within 3 months from Merkel cell cancer each time. Having such a super aggressive cancer right before the pandemic was scary enough. Having it again during the pandemic has been scarier and more challenging. We know it kept her C-free in between bouts for 13 months and has assisted in her immunotherapy response during her second bout. Her blood test results have been quite amazing during the times she drinks Balance 7™. My sincere hope is she will find a way to drink it every day for the rest of her life. We would love to share more of her test results and story with you if you'd like us to. <\/p>"
-          }
-        },
-        "question_MMwgF3": {
-          "type": "question",
-          "settings": {
-            "question": "Valerie Mercado",
-            "answer": "<p>I have been taking what I call Balance7 for around 2 months now pretty consistently. I am a professional and literally run 2 businesses in addition to being a major networker on the beautiful Central Coast of California. I need all the energy I can get. I heard about Balance7 and thought I would give it a try. Like most at first, I was unsure and didn't take it regularly. The more I heard about the benefits and the more I studied about the product the more I understood how beneficial it could be. I was known to show up late to everything. NOT the case anymore. In addition to serious energy, I also lost a few pounds I think because Balance7 has definitely curved my hunger cravings. Because I work hard, I also play hard. I have found that believe it or not it has helped with my hangovers (I live in wine country lol). I have since recommended it to my mom, family, and co-workers. Just so you know, I don't just put my name behind anything. It also helps when you know an actual doctor endorses the product. Living the Balance7 Life, which means longer and healthier! <\/p><h3>Dorothy Sevlie<\/h3><p><\/p><h3>Richard Hanechak - Digestive and Energetic Restoration<\/h3><h3>Hubert-Armand T<\/h3><h3>Christopher Afriyie<\/h3><h3>Thomas Plymale<\/h3><h3>Graham Chadwick<\/h3><h3>Joe H.<\/h3><h3>Dina<\/h3><h3>John Curuby<\/h3><h3>Joe Short<\/h3><h3>Robert Fitzgerald<\/h3><h3>Pete Talbert<\/h3><h3>Kathy Carr<\/h3><h3>Christopher A.<\/h3><h3>Sandy Lewis<\/h3><h3>Pamela Hughes<\/h3><h3>Ell Lucey<\/h3><h3>Connie Nadeau<\/h3><h3>Katie Ross<\/h3><h3>Graydon Gaines<\/h3><h2>Sign Up For Our Newsletter To Receive Specials\/Health Updates.<\/h2><p>All-natural!<\/p><p>Email<\/p><h2>Where your body wants to be!<\/h2><h5><a href=\"https:\/\/balance-7.myshopify.com\/policies\/privacy-policy\">Privacy Policy<\/a><br\/><a href=\"https:\/\/balance-7.myshopify.com\/policies\/terms-of-service\"><br\/>Terms of Service<br\/><\/a><br\/><a href=\"https:\/\/balance-7.myshopify.com\/policies\/contact-information\">Contact Information<\/a><\/h5><h2><a href=\"https:\/\/www.google.com\/search?q=balance7&oq=balance7+&aqs=chrome.0.69i59j46j0l3j69i60l3.3239j0j4&sourceid=chrome&ie=UTF-8#\" target=\"_blank\">(800) 793-9039<\/a><\/h2><h5>2360 Thompson Way Ste. K, Santa Maria, CA 93455, United States<\/h5><h2>Support<\/h2><ul><li><a href=\"https:\/\/aj9eo35651k.typeform.com\/to\/L7NyPEx7\">Chemotherapy Free Trial<\/a><\/li><li><a href=\"https:\/\/balance7.com\/pages\/about-balance-7\">About Balance 7<\/a><\/li><li><a href=\"https:\/\/balance7.com\/pages\/knowledge-base\">Knowledge Base<\/a><\/li><li><a href=\"https:\/\/balance7.com\/policies\/privacy-policy\">Privacy Policy<\/a><\/li><li><a href=\"https:\/\/balance7.com\/policies\/terms-of-service\">Terms of service<\/a><\/li><li><a href=\"https:\/\/balance7.com\/policies\/contact-information\">Contact Information<\/a><\/li><\/ul><p>Follow onFollowing on<\/p><ul><li><a href=\"https:\/\/www.facebook.com\/Balance74Life\">Facebook<\/a><\/li><li><a href=\"https:\/\/www.instagram.com\/balance7_supplement\/\">Instagram<\/a><\/li><li><a href=\"https:\/\/www.youtube.com\/@balance7\">YouTube<\/a><\/li><li><a href=\"https:\/\/twitter.com\/Balance715\">Twitter<\/a><\/li><\/ul><p>Payment methods<\/p><ul><li><\/li><li><\/li><li><\/li><li><\/li><li><\/li><li><\/li><li><\/li><li><\/li><\/ul><p>© 2024,<a href=\"https:\/\/balance7.com\/\">Balance 7<\/a><a href=\"https:\/\/www.shopify.com\/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore\" target=\"_blank\">| All Rights Reserved<\/a><\/p>"
-          }
-        },
-        "question_gN3HJr": {
-          "type": "question",
-          "settings": {
-            "question": "Dorothy Sevlie",
-            "answer": "<p>This is a somewhat unusual introduction to the regular use of Balance7. Several months ago I purchased a gallon of Balance7 using the \"Howie 15\" promo code. For a week or two I looked at the jug, but didn't open it right away...but...Holiday season was here and I love pickled herring at that time of year. However, it gave me terrible heartburn. Decided to crack open the Balance7 and take a shot before I ate the herring. Voile! No more herring heartburn. While I'm not up to the 3 doses a day, I now take it in the morning before coffee on an empty stomach and, of course, before herring. It works!<\/p>"
-          }
-        },
-        "question_3p9Gr3": {
-          "type": "question",
-          "settings": {
-            "question": "Richard Hanechak - Digestive and Energetic Restoration",
-            "answer": "<p>I began using Balance7 shortly after the pandemic began, to very good effect. I used it for several months and I was feeling great. Then for some reason I let it run out. My energy level plummeted and the change in my digestion and elimination caused me to think something was drastically, potentially catastrophically wrong. Balance7 kept e-mailing me, and Tammy (The Wonderful) got a gallon sent out to me in record time. Balance7 is truly life changing for me, for the better. I have copious amounts of energy and every aspect of my digestion is consistent with excellent, robust, resilient health. I keep a gallon at home and one at work. I am extremely grateful for Balance7, and thankful for Tammy’s excellent service and attitude.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "question_hm86kf",
-        "question_NkWyEA",
-        "question_CQT837",
-        "question_MMwgF3",
-        "question_gN3HJr",
-        "question_3p9Gr3"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "show_categories": false,
-        "subheading": "",
-        "title": "Unveiling the Heartfelt Stories of Balance7 Alkaline Concentrate",
-        "content": ""
-      }
-    },
-    "1704932144b80e6f9c": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_wzTX4A": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_wzTX4A"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false
-      }
-    },
-    "newsletter_iNmRGk": {
-      "type": "newsletter",
-      "disabled": true,
-      "settings": {
-        "color_scheme": "scheme-1",
-        "separate_section_with_border": false,
-        "image_size": "auto",
-        "subheading": "Keep me updated",
-        "title": "Newsletter",
-        "content": "<p>Keep Balanced with Balance7. Subscribe to our newsletter for exclusive offers.<\/p>",
-        "button_text": "Subscribe",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "hero_section_damgNm": {
       "type": "hero-section",
       "blocks": {
@@ -767,24 +408,51 @@
         "button_text": "Shop Now",
         "button_link": ""
       }
+    },
+    "landing_solution_Mct3p3": {
+      "type": "landing-solution",
+      "blocks": {
+        "block_fHeYVY": {
+          "type": "block",
+          "settings": {
+            "tab_name": "Immunity",
+            "thumbnail": "shopify:\/\/shop_images\/quiz-bg.jpg",
+            "title": "Immunity and pH Balance",
+            "description": "<p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our immunity, leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity and ensuring robust health.<\/p><p>The choices we make, from food to our way of life and stress, can add acidity to our bodies. This silent disruptor weakens our immunity and can be the root cause of many health concerns.<\/p><p>Substances in Balance7™ are not just alkaline; they're immunity superheroes. They counter excessive acidity and support a healthier you.<\/p>"
+          }
+        },
+        "block_LgYQwD": {
+          "type": "block",
+          "settings": {
+            "tab_name": "pH Solution",
+            "thumbnail": "shopify:\/\/shop_images\/banner1.jpg",
+            "title": "Immunity and pH Balance",
+            "description": "<p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our immunity, leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity and ensuring robust health.<\/p><p>The choices we make, from food to our way of life and stress, can add acidity to our bodies. This silent disruptor weakens our immunity and can be the root cause of many health concerns.<\/p><p>Substances in Balance7™ are not just alkaline; they're immunity superheroes. They counter excessive acidity and support a healthier you.<\/p>"
+          }
+        },
+        "block_eEcPYw": {
+          "type": "block",
+          "settings": {
+            "tab_name": "Energy",
+            "thumbnail": "shopify:\/\/shop_images\/hero-1.jpg",
+            "title": "Immunity and pH Balance",
+            "description": "<p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our immunity, leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity and ensuring robust health.<\/p><p>The choices we make, from food to our way of life and stress, can add acidity to our bodies. This silent disruptor weakens our immunity and can be the root cause of many health concerns.<\/p><p>Substances in Balance7™ are not just alkaline; they're immunity superheroes. They counter excessive acidity and support a healthier you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "block_fHeYVY",
+        "block_LgYQwD",
+        "block_eEcPYw"
+      ],
+      "settings": {
+        "section_slug": "Proven Results, Natural Solution",
+        "section_title": "Why You Need pH Balance"
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_kMXXfW",
-    "rich_text_Dnmdpm",
-    "video_6rARRM",
-    "rich_text_abjYEX",
-    "video_E8xAcr",
-    "rich_text_EiWG94",
-    "video_hcGkBH",
-    "rich_text_EGdh6N",
-    "video_pnKt4j",
-    "rich_text_maEgWY",
-    "video_chCrFk",
-    "faq_VFC3wh",
-    "1704932144b80e6f9c",
-    "newsletter_iNmRGk",
     "hero_section_damgNm",
     "landing_suppliment_KFYgxy",
     "landing_benefits_YbzVwg",
@@ -794,6 +462,7 @@
     "landing_quiz_PYYkn7",
     "landing_hero_section_wnPMRq",
     "landing_benefits_two_rtfJtw",
-    "landing_banner_AYweAV"
+    "landing_banner_AYweAV",
+    "landing_solution_Mct3p3"
   ]
 }
