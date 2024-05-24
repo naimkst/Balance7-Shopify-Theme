@@ -1,0 +1,199 @@
+<!-- solution-area -->
+<div class="b-section solution-area section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="section-title">
+          <span>Proven Results, Natural Solution</span>
+          <h2>Why You Need pH Balance</h2>
+        </div>
+      </div>
+    </div>
+    <div class="tab-content">
+      <div
+        role="tabpanel"
+        class="tab-pane active"
+        id="Immunity">
+        <div class="solution-wrap">
+          <div class="solution-item">
+            <div class="row align-items-center">
+              <div class="col-lg-6">
+                <div class="solution-content wow fadeInLeftSlow" data-wow-duration="1000ms">
+                  <h2>Immunity and pH Balance</h2>
+                  <p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our                       
+                                            immunity,
+                                            leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity
+                                            and
+                                            ensuring robust health.</p>
+                  <p>The choices we make, from food to our way of life and stress, can add acidity                       
+                                            to our
+                                            bodies. This silent disruptor weakens our immunity and can be the root cause
+                                            of many
+                                            health concerns.</p>
+                  <p>Substances in Balance7™ are not just alkaline; they're immunity superheroes.                       
+                                            They
+                                            counter excessive acidity and support a healthier you.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="solution-img wow fadeInRightSlow" data-wow-duration="1200ms">
+                  <img src="assets/blue-bottle.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        role="tabpanel"
+        class="tab-pane fade"
+        id="Solution">
+        <div class="solution-wrap">
+          <div class="solution-item">
+            <div class="row align-items-center">
+              <div class="col-lg-6">
+                <div class="solution-content">
+                  <h2>Immunity and pH Balance</h2>
+                  <p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our                       
+                                            immunity,
+                                            leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity
+                                            and
+                                            ensuring robust health.</p>
+                  <p>The choices we make, from food to our way of life and stress, can add acidity                       
+                                            to our
+                                            bodies. This silent disruptor weakens our immunity and can be the root cause
+                                            of many
+                                            health concerns.</p>
+                  <p>Substances in Balance7™ are not just alkaline; they're immunity superheroes.                       
+                                            They
+                                            counter excessive acidity and support a healthier you.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="solution-img">
+                  <img src="assets/blue-bottle.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        role="tabpanel"
+        class="tab-pane fade"
+        id="Energy">
+        <div class="solution-wrap">
+          <div class="solution-item">
+            <div class="row align-items-center">
+              <div class="col-lg-6">
+                <div class="solution-content">
+                  <h2>Immunity and pH Balance</h2>
+                  <p>Our bodies seek a balanced pH. A tilt towards acidity can weaken our                       
+                                            immunity,
+                                            leaving us vulnerable. Balance7™ ensures this balance, fortifying immunity
+                                            and
+                                            ensuring robust health.</p>
+                  <p>The choices we make, from food to our way of life and stress, can add acidity                       
+                                            to our
+                                            bodies. This silent disruptor weakens our immunity and can be the root cause
+                                            of many
+                                            health concerns.</p>
+                  <p>Substances in Balance7™ are not just alkaline; they're immunity superheroes.                       
+                                            They
+                                            counter excessive acidity and support a healthier you.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="solution-img">
+                  <img src="assets/blue-bottle.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="solution-tab">
+      <ul
+        class="nav nav-tabs"
+        id="myTab"
+        role="tablist">
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="Immunity-tab"
+            data-bs-toggle="tab"
+            href="#Immunity"
+            role="tab"
+            aria-controls="Immunity"
+            aria-selected="true">Immunity</a>
+        </li>
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link"
+            id="Solution-tab"
+            data-bs-toggle="tab"
+            href="#Solution"
+            role="tab"
+            aria-controls="Solution"
+            aria-selected="false">pH Solution</a>
+        </li>
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link"
+            id="Energy-tab"
+            data-bs-toggle="tab"
+            href="#Energy"
+            role="tab"
+            aria-controls="Energy"
+            aria-selected="false">Energy</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Solution Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_slug",
+        "label": "Section Slug",
+        "default": "Proven Results, Natural Solution"
+      }, {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Why You Need pH Balance"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Banner Images",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "feature_images",
+            "label": "Image"
+          }
+        ]
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Solution Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
