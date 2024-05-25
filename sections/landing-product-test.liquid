@@ -1,0 +1,143 @@
+<!-- taste-area -->
+<div class="b-section taste-area section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <div class="taste-wrap">
+          <div class="taste-text">
+            <i><img
+                src="{{section.settings.slug_icon |  image_url: width: 300 }}"
+                width=""
+                height=""
+                alt=""></i>
+            <h2>{{ section.settings.section_title }}</h2>
+            {{ section.settings.section_description }}
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="taste-img">
+          <img
+            src="{{ section.settings.test_image |  image_url: width: 900  }}"
+            width=""
+            height=""
+            alt="">
+
+          <div class="compare-wrap">
+            <div class="compare-react">
+              <i><img
+                  src="{{ section.settings.list_icon_one |  image_url: width: 500  }}"
+                  alt=""
+                  width=""
+                  height=""
+                  alt=""></i>
+            </div>
+            <div class="compare-color">
+              <p>
+                <span>{{ section.settings.acidic_title }}</span>
+                <span><img
+                    src="{{ 'arrow.svg' |  asset_url }}"
+                    alt=""
+                    width=""
+                    height=""></span>
+                <span>{{ section.settings.neutral_title }}</span>
+              </p>
+              <ul>
+                <li>{{ section.settings.test_one }}</li>
+                <li>{{ section.settings.test_two }}</li>
+                <li>{{ section.settings.test_three }}</li>
+                <li>{{ section.settings.test_four }}</li>
+                <li>{{ section.settings.test_five }}</li>
+              </ul>
+            </div>
+            <div class="compare-react">
+              <i><img
+                  src="{{ section.settings.list_icon_two |  image_url: width: 500  }}"
+                  width=""
+                  height=""
+                  alt=""></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Product Test",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "slug_icon",
+        "label": "Icon"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Title",
+        "default": "What does Balance7’s taste tell you about your health?"
+      },
+      {
+        "type": "richtext",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "<p>As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.</p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.</p><p>As Balance7 works its magic, over time your pH levels will optimize and the bitter taste will lessen.</p>"
+      },
+      {
+        "type": "image_picker",
+        "id": "test_image",
+        "label": "Test Thumbnail Image"
+      }, {
+        "type": "image_picker",
+        "id": "list_icon_one",
+        "label": "Process Icon One"
+      }, {
+        "type": "image_picker",
+        "id": "list_icon_two",
+        "label": "Process Icon Two"
+      }, {
+        "type": "text",
+        "id": "acidic_title",
+        "label": "Acidic"
+      }, {
+        "type": "text",
+        "id": "neutral_title",
+        "label": "Neutral"
+      }, {
+        "type": "text",
+        "id": "test_one",
+        "label": "Test Process One",
+        "default": "3"
+      }, {
+        "type": "text",
+        "id": "test_two",
+        "label": "Test Process Two",
+        "default": "4"
+      }, {
+        "type": "text",
+        "id": "test_three",
+        "label": "Test Process Three",
+        "default": "5"
+      }, {
+        "type": "text",
+        "id": "test_four",
+        "label": "Test Process Four",
+        "default": "6"
+      }, {
+        "type": "text",
+        "id": "test_five",
+        "label": "Test Process Five",
+        "default": "7"
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Product Test"
+      }
+    ]
+  }
+{% endschema %}

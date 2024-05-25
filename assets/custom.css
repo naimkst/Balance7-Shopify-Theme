@@ -1216,6 +1216,9 @@
   background-color: #fff;
   text-align: center;
   border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 @media (max-width: 1199px) {
   .taste-area .taste-img .compare-wrap .compare-react i {

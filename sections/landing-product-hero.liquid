@@ -1,0 +1,110 @@
+<div class="b-section hero-area style-3">
+  <div class="container-fluid-bt">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="hero-text wow fadeInLeftSlow" data-wow-duration="1000ms">
+          <span>
+            <i><img
+                src="{{ section.settings.slug_icon |  image_url: width: 300 }}"
+                alt=""
+                width=""
+                height=""></i>
+            {{ section.settings.slug_title }}</span>
+          <h1>{{ section.settings.section_title }}</h1>
+          <h2>{{ section.settings.section_subtitle }}</h2>
+          <p>{{ section.settings.section_description }}</p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="hero-right-img-wrap">
+          <div class="hero-right-text">
+            <h3>{{ section.settings.product_title }}</h3>
+            <ul>
+              <li>{{ section.settings.product_price }}</li>
+              <li>{{ section.settings.product_price2 }}</li>
+            </ul>
+            <a href="{{ section.settings.button_link }}" class="theme-btn-s2">{{ section.settings.button_text }}</a>
+          </div>
+          <div class="hero-right-img">
+            <img
+              src="{{ section.settings.featured_image |  image_url: width: 900  }}"
+              width=""
+              height=""
+              alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Product Hero Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "slug_icon",
+        "label": "Slug Icon"
+      },
+      {
+        "type": "text",
+        "id": "slug_title",
+        "label": "Slug Title",
+        "default": "SEE RESULTS IN 3 DAYS"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Title",
+        "default": "Meet Balance7™"
+      },
+      {
+        "type": "text",
+        "id": "section_subtitle",
+        "label": "Sub Title",
+        "default": "Products"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "With Balance7™, experience the resurgence of your immune system, your body's natural defense against illness."
+      }, {
+        "type": "text",
+        "id": "product_title",
+        "label": "Product Title",
+        "default": "11-Day Starter Kit"
+      }, {
+        "type": "text",
+        "id": "product_price",
+        "label": "Product Price",
+        "default": "$34.99"
+      }, {
+        "type": "text",
+        "id": "product_price2",
+        "label": "Product Price 2",
+        "default": "$65.99"
+
+      }, {
+        "type": "image_picker",
+        "id": "featured_image",
+        "label": "Featured Image"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Product Hero Section"
+      }
+    ]
+  }
+{% endschema %}

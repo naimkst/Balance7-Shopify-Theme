@@ -1393,6 +1393,9 @@ $heading-font: "Poppins", sans-serif;
           background-color: $white;
           text-align: center;
           border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
 
           @media (max-width: 1199px) {
             width: 54.795px;

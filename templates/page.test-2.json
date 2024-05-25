@@ -584,6 +584,58 @@
       "settings": {
         "section_title": "Hear the Success Stories"
       }
+    },
+    "subscribe_section_XARDYw": {
+      "type": "subscribe-section",
+      "settings": {
+        "secton_image": "shopify:\/\/shop_images\/hero-5.jpg",
+        "section_title": "Denise Wasson - Cancer Survivor",
+        "section_description": "With the help of Balance7™, Denise is here today. She is NOT a paid actor.",
+        "button_text": "Shop Now"
+      }
+    },
+    "landing_product_hero_zNVXpT": {
+      "type": "landing-product-hero",
+      "settings": {
+        "slug_icon": "shopify:\/\/shop_images\/energy.svg",
+        "slug_title": "OVER 6 MILLION BOTTLES SOLD",
+        "section_title": "Meet Balance7™",
+        "section_subtitle": "Products",
+        "section_description": "With Balance7™, experience the resurgence of your immune system, your body's natural defense against illness.",
+        "product_title": "11-Day Starter Kit",
+        "product_price": "$34.99",
+        "product_price2": "$65.99",
+        "featured_image": "shopify:\/\/shop_images\/hero-right.png",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
+    },
+    "landing_product_about_U6K7m6": {
+      "type": "landing-product-about",
+      "settings": {
+        "section_title": "Introducing the Balance7 Collection of Alkalizing Supplements",
+        "section_description": "Ever felt that your body is just not on your side? That despite your best efforts, something seems off? You are not alone.",
+        "button_text": "Read More",
+        "button_link": ""
+      }
+    },
+    "landing_product_test_BT8adJ": {
+      "type": "landing-product-test",
+      "settings": {
+        "slug_icon": "shopify:\/\/shop_images\/bicon3.svg",
+        "section_title": "What does Balance7’s taste tell you about your health?",
+        "section_description": "<p>As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p><p>As Balance7 works its magic, over time your pH levels will optimize and the bitter taste will lessen.<\/p>",
+        "test_image": "shopify:\/\/shop_images\/sol3.jpg",
+        "list_icon_one": "shopify:\/\/shop_images\/react1.svg",
+        "list_icon_two": "shopify:\/\/shop_images\/react1.svg",
+        "acidic_title": "Acidic",
+        "neutral_title": "Neutral",
+        "test_one": "3",
+        "test_two": "4",
+        "test_three": "5",
+        "test_four": "6",
+        "test_five": "7"
+      }
     }
   },
   "order": [
@@ -601,6 +653,10 @@
     "landing_solution_Mct3p3",
     "landing_banner_two_btTfKq",
     "healthcare_section_8GYJgC",
-    "landing_testimonail_two_aKKDYc"
+    "landing_testimonail_two_aKKDYc",
+    "subscribe_section_XARDYw",
+    "landing_product_hero_zNVXpT",
+    "landing_product_about_U6K7m6",
+    "landing_product_test_BT8adJ"
   ]
 }

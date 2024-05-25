@@ -1,0 +1,67 @@
+<!-- subscribe-area -->
+<div class="b-section subscribe-area section-padding" style="background: url({{ section.settings.secton_image |  image_url: width: 1920 }}) no-repeat center top; background-size: cover;">
+  <div class="container-bt">
+    <div class="subscribe-wrap wow fadeInUp" data-wow-duration="1300ms">
+      <h2>{{ section.settings.section_title }}</h2>
+      <p>{{ section.settings.section_description }}</p>
+      {% form 'customer' %}
+        <input
+          type="text"
+          placeholder="Email"
+          name="contact[email]">
+        <input
+          type="hidden"
+          name="customer[accepts_marketing]"
+          value="true" />
+        <button class="theme-btn-s2" type="submit">{{ section.settings.button_text }}</button>
+        {% if form.posted_successfully? %}
+          <div class="clearfix error-handling-messages">
+            <div id="success">Thank you! Massage Sended</div>
+          </div>
+        {% endif %}
+        {% if form.errors %}
+          <div class="clearfix error-handling-messages">
+            <div id="error">
+              {{ form.errors | default_errors }}
+            </div>
+          </div>
+        {% endif %}
+      {% endform %}
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Subscribe Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "secton_image",
+        "label": "Section Image"
+      }, {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Denise Wasson - Cancer Survivor"
+      }, {
+        "type": "text",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "With the help of Balance7™, Denise is here today. She is NOT a paid actor."
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Subscribe Section"
+      }
+    ]
+  }
+{% endschema %}
