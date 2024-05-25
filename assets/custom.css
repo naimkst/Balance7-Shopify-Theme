@@ -423,6 +423,11 @@
   color: #fff;
   margin-top: 10px;
 }
+.balance-area .balance-wrap .balance-img .video-button-slug p {
+  display: block;
+  color: #fff;
+  margin-top: 10px;
+}
 .balance-area .balance-wrap .balance-img .video-btn {
   position: absolute;
   top: 50%;
@@ -1161,15 +1166,17 @@
   background: #f5f5f5;
 }
 .taste-area .taste-text i {
-  display: inline-block;
   width: 71px;
   height: 71px;
   line-height: 71px;
-  text-align: center;
+  text-align: left;
   background: #fff;
   border-radius: 8px;
-  margin: 0 auto;
+  margin-left: 0;
   margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .taste-area .taste-text h2 {
   color: #010924;
@@ -1307,4 +1314,43 @@
   padding: 0;
   background: none;
   border: 0;
+}
+
+.testimonial-area.style-3 .testimonial-wrap .testimonial-img .testimonial-text {
+  left: auto;
+  right: 0;
+  padding-left: 0;
+  padding-right: 30px;
+}
+@media (max-width: 991px) {
+  .testimonial-area.style-3 .testimonial-wrap .testimonial-img .testimonial-text {
+    padding: 30px 15px;
+  }
+}
+
+.behind-area.style-3 {
+  background: #f5f5f5;
+}
+.behind-area.style-3 .behind-item .behind-text {
+  margin-top: 20px;
+}
+.behind-area.style-3 .behind-item .behind-text h2 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+.balance-area.style-3 .balance-wrap .balance-text p {
+  margin-bottom: 30px;
+}
+.balance-area.style-3 .balance-wrap .balance-text h3 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }/*# sourceMappingURL=custom.css.map */

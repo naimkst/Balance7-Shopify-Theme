@@ -636,6 +636,70 @@
         "test_four": "6",
         "test_five": "7"
       }
+    },
+    "landing_behind_section_HHCxTb": {
+      "type": "landing-behind-section",
+      "blocks": {
+        "block_X46CjE": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/hero-2.jpg",
+            "title": "Alkalinity vs. Acidity",
+            "description": "Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality."
+          }
+        },
+        "block_PeiJiE": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/hero-6.jpg",
+            "title": "Immune System Activation",
+            "description": "Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality."
+          }
+        },
+        "block_Hbb9Nr": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/bimg.png",
+            "title": "Alkalinity vs. Acidity",
+            "description": "Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality."
+          }
+        }
+      },
+      "block_order": [
+        "block_X46CjE",
+        "block_PeiJiE",
+        "block_Hbb9Nr"
+      ],
+      "settings": {
+        "section_title": "Denise Wasson - Cancer Survivor"
+      }
+    },
+    "landing_balance_two_tUikhm": {
+      "type": "landing-balance-two",
+      "blocks": {
+        "block_NTGjdU": {
+          "type": "block",
+          "settings": {
+            "item_item": "01",
+            "feature_title": "Hydrogenated water",
+            "feature_description": "Increases anti-inflamatory and antioxidant properties in water"
+          }
+        }
+      },
+      "block_order": [
+        "block_NTGjdU"
+      ],
+      "settings": {
+        "video_thumbnail": "shopify:\/\/shop_images\/video.png",
+        "video_link": "",
+        "section_slug": "<p> <strong>Watch:<\/strong> How Does Balance7™ Work?<\/p>",
+        "section_title": "What is in Balance7™?™",
+        "content_slug": "A message from Dr. Ahmad Nooristani, MD & CEO",
+        "content_title": "The Silent Enemy: Chronic Inflammation",
+        "section_description": "<p>In the fast-paced rhythm of today’s life, stress, dietary choices, and pollutants push our bodies into an acidic state, fueling chronic inflammation and weakening our immune systems. This can lead to a myriad of health issues, from everyday fatigue and fog to more significant conditions.<\/p><p>As the CEO of Balance7, I’m excited to share with you our science-backed solution tailored to address these very challenges. Balance7 stands out by effectively alkalizing your body, neutralizing excess acidity, and enhancing the resilience of your immune system. It represents more than just a health supplement; it's a beacon for those seeking to revitalize their health and embrace a life of vitality and well-being.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -657,6 +721,8 @@
     "subscribe_section_XARDYw",
     "landing_product_hero_zNVXpT",
     "landing_product_about_U6K7m6",
-    "landing_product_test_BT8adJ"
+    "landing_product_test_BT8adJ",
+    "landing_behind_section_HHCxTb",
+    "landing_balance_two_tUikhm"
   ]
 }

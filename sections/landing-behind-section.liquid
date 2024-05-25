@@ -1,0 +1,78 @@
+<!-- behind-area -->
+<div class="b-section behind-area style-3 section-padding">
+  <div class="container-bt">
+    <div class="behind-wrap">
+      <div class="section-title">
+        <h2>{{ section.settings.section_title }}</h2>
+      </div>
+      <div class="row">
+        {% for block in section.blocks %}
+          <div class="col-lg-4 col-md-6 col-12">
+            <div class="behind-item wow fadeInUp" data-wow-duration="1000ms">
+              <div class="behind-img">
+                <img
+                  src="{{ block.settings.thumbnail_image |  image_url: width: 600 }}"
+                  width=""
+                  height=""
+                  alt="">
+              </div>
+              <div class="behind-text">
+                <h2>{{ block.settings.title }}</h2>
+                <p>{{ block.settings.description }}</p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Behind Section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Denise Wasson - Cancer Survivor"
+      }
+
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "thumbnail_image",
+            "label": "Thumbnail Image"
+          }, {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "Alkalinity vs. Acidity"
+          }, {
+            "type": "text",
+            "id": "description",
+            "label": "Description",
+            "default": "Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality."
+          }
+        ]
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Behind Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

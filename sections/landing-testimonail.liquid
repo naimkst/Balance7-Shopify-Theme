@@ -1,5 +1,5 @@
 <!-- testimonial-area -->
-<div class="b-section testimonial-area section-padding">
+<div class="b-section testimonial-area {%if section.settings.testimonial_style == "style-2" %} style-3 {% endif %} section-padding">
   <div class="container-bt">
     <div class="testimonial-wrap">
       <div class="testimonial-img">
@@ -89,7 +89,20 @@
         "id": "testimonial_description",
         "label": "Testimonial Description",
         "default": "Explore firsthand accounts of transformation and wellness through our curated YouTube playlist of testimonials. Witness the powerful impact of Balance7 on individuals just like you."
-
+      }, {
+        "type": "radio",
+        "id": "testimonial_style",
+        "label": "Testimonial Style",
+        "options": [
+          {
+            "value": "style-1",
+            "label": "Landing Page"
+          }, {
+            "value": "style-2",
+            "label": "Single Product Page"
+          }
+        ],
+        "default": "style-1"
       }
     ],
 

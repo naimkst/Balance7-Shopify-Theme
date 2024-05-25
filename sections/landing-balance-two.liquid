@@ -1,0 +1,132 @@
+<!-- balance-area -->
+<div class="b-section balance-area style-3 section-padding">
+  <div class="container">
+    <div class="balance-wrap">
+      <div class="row align-items-center">
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="balance-img wow fadeInLeftSlow" data-wow-duration="1000ms">
+            <img
+              src="{{ section.settings.video_thumbnail |  image_url: width: 900 }}"
+              width=""
+              height=""
+              alt="">
+            <div class="video-button-slug">
+              {{ section.settings.section_slug }}
+            </div>
+            <div class="video-btn">
+              <a
+                href="{{ section.settings.video_link }}"
+                data-type="iframe"
+                class="open-video"><img
+                  src="{{ 'video-btn.svg' | asset_url }}"
+                  width=""
+                  height=""
+                  alt=""></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12 col-12">
+          <div class="balance-text wow fadeInRightSlow" data-wow-duration="1000ms">
+            <h2>{{ section.settings.section_title }}</h2>
+            <p>{{ section.settings.content_slug }}</p>
+            <i><img
+                src="{{ "quote.svg" | asset_url }}"
+                alt=""
+                width=""
+                height=""></i>
+            <h3>{{ section.settings.content_title }}</h3>
+            {{ section.settings.section_description }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Balance2 Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "video_thumbnail",
+        "label": "Video Thumbnail Image"
+      },
+      {
+        "type": "url",
+        "id": "video_link",
+        "label": "Video Link"
+      },
+      {
+        "type": "richtext",
+        "id": "section_slug",
+        "label": "Image Slug",
+        "default": "<p><span> <strong>Watch:</strong> How Does Balance7™ Work?</span></p>"
+      },
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "What is in Balance7™?™"
+      }, {
+        "type": "text",
+        "id": "content_slug",
+        "label": "Content Slug",
+        "default": "A message from Dr. Ahmad Nooristani, MD & CEO"
+      }, {
+        "type": "text",
+        "id": "content_title",
+        "label": "Content Title",
+        "default": "The Silent Enemy: Chronic Inflammation"
+      }, {
+        "type": "richtext",
+        "id": "section_description",
+        "label": "Section Description",
+        "default": "<p>In the fast-paced rhythm of today’s life, stress, dietary choices, and pollutants push our bodies into an acidic state, fueling chronic inflammation and weakening our immune systems. This can lead to a myriad of health issues, from everyday fatigue and fog to more significant conditions.</p><p>As the CEO of Balance7, I’m excited to share with you our science-backed solution tailored to address these very challenges. Balance7 stands out by effectively alkalizing your body, neutralizing excess acidity, and enhancing the resilience of your immune system. It represents more than just a health supplement; it's a beacon for those seeking to revitalize their health and embrace a life of vitality and well-being.</p>"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text",
+        "default": "Shop Now"
+      }, {
+        "type": "url",
+        "id": "button_link",
+        "label": "Button Link"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "text",
+            "id": "item_item",
+            "label": "Item Number",
+            "default": "01"
+          }, {
+            "type": "text",
+            "id": "feature_title",
+            "label": "Title",
+            "default": "Hydrogenated water"
+          }, {
+            "type": "text",
+            "id": "feature_description",
+            "label": "Title",
+            "default": "Increases anti-inflamatory and antioxidant properties in water"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing Balance2 Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
