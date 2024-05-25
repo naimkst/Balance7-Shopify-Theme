@@ -449,6 +449,141 @@
         "section_slug": "Proven Results, Natural Solution",
         "section_title": "Why You Need pH Balance"
       }
+    },
+    "landing_banner_two_btTfKq": {
+      "type": "landing-banner-two",
+      "settings": {
+        "section_image": "shopify:\/\/shop_images\/banner2.jpg",
+        "section_title": "Doctor-Recommended",
+        "section_description": "<p>Dr. Nooristani, with his profound medical experience, underscores the importance of pH balance and immunity, endorsing Balance7™ for its unparalleled potential in boosting health and vitality.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
+    },
+    "healthcare_section_8GYJgC": {
+      "type": "healthcare-section",
+      "blocks": {
+        "block_qkYnmj": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon3.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_Lg7ijd": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon4.svg",
+            "title": "Fortify Your Immunity with Balance7™",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_kU7767": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon6.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_4GiCHt": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon6.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_y3wetA": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon7.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_689AbG": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon2.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_KTJ8eC": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon1.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        },
+        "block_qpbijt": {
+          "type": "block",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/bicon2.svg",
+            "title": "Perfect pH Balance",
+            "description": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        }
+      },
+      "block_order": [
+        "block_qkYnmj",
+        "block_Lg7ijd",
+        "block_kU7767",
+        "block_4GiCHt",
+        "block_y3wetA",
+        "block_689AbG",
+        "block_KTJ8eC",
+        "block_qpbijt"
+      ],
+      "settings": {
+        "section_title": "Why Healthcare Professionals Recommend Balance7™"
+      }
+    },
+    "landing_testimonail_two_aKKDYc": {
+      "type": "landing-testimonail-two",
+      "blocks": {
+        "block_qMJEQj": {
+          "type": "block",
+          "settings": {
+            "video_thumbnail": "shopify:\/\/shop_images\/testimonial-bg2.png",
+            "video_link": "https:\/\/www.youtube.com\/embed\/sM7FBBr5yeE",
+            "video_slug": "Watch: Lisa Kruitbosch",
+            "testimonial_text": "View More Testimonials",
+            "testimonail_description": "With the help of Balance7™, Denise is here today. She is NOT a paid actor."
+          }
+        },
+        "block_T9r3CU": {
+          "type": "block",
+          "settings": {
+            "video_thumbnail": "shopify:\/\/shop_images\/testimonial-bg.jpg",
+            "video_link": "https:\/\/www.youtube.com\/embed\/sM7FBBr5yeE",
+            "video_slug": "Watch: Lisa Kruitbosch",
+            "testimonial_text": "View More Testimonials",
+            "testimonail_description": "With the help of Balance7™, Denise is here today. She is NOT a paid actor."
+          }
+        },
+        "block_gKE9nK": {
+          "type": "block",
+          "settings": {
+            "video_thumbnail": "shopify:\/\/shop_images\/hero-5.jpg",
+            "video_link": "https:\/\/www.youtube.com\/embed\/sM7FBBr5yeE",
+            "video_slug": "Watch: Lisa Kruitbosch",
+            "testimonial_text": "View More Testimonials",
+            "testimonail_description": "With the help of Balance7™, Denise is here today. She is NOT a paid actor."
+          }
+        }
+      },
+      "block_order": [
+        "block_qMJEQj",
+        "block_T9r3CU",
+        "block_gKE9nK"
+      ],
+      "settings": {
+        "section_title": "Hear the Success Stories"
+      }
     }
   },
   "order": [
@@ -463,6 +598,9 @@
     "landing_hero_section_wnPMRq",
     "landing_benefits_two_rtfJtw",
     "landing_banner_AYweAV",
-    "landing_solution_Mct3p3"
+    "landing_solution_Mct3p3",
+    "landing_banner_two_btTfKq",
+    "healthcare_section_8GYJgC",
+    "landing_testimonail_two_aKKDYc"
   ]
 }

@@ -1,0 +1,77 @@
+<!-- healthcare-area -->
+<div class="b-section healthcare-area section-padding">
+  <div class="container-bt">
+    <div class="healthcare-wrap">
+      <h2>{{ section.settings.section_title }}</h2>
+
+      <div class="row">
+        {% for block in section.blocks %}
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="healthcare-item wow fadeInUp" data-wow-duration="1000ms">
+              <div class="icon">
+                <i><img
+                    src="{{ block.settings.icon |  image_url: width: 100 }}"
+                    alt=""
+                    width=""
+                    height=""></i>
+              </div>
+              <div class="text">
+                <h3>{{ block.settings.title }}</h3>
+                <p>{{ block.settings.description }}</p>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Landing Health Section",
+    "settings": [
+
+      {
+        "type": "text",
+        "id": "section_title",
+        "label": "Section Title",
+        "default": "Why Healthcare Professionals Recommend Balance7™"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "Add Item",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "icon",
+            "label": "Icon"
+          }, {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "Perfect pH Balance"
+          }, {
+            "type": "text",
+            "id": "description",
+            "label": "Description",
+            "default": "Naturally reinforce your body's pH and immunity with Balance7™. Confidently navigate health challenges with our scientifically backed formula."
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Landing Health Section",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}
