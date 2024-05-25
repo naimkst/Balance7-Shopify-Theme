@@ -9,22 +9,17 @@
             "heading_tag": "h3"
           }
         },
-        "judge_me_reviews_preview_badge_rHtAfh": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "price": {
+          "type": "price",
           "settings": {
+            "show_taxes_notice": false
           }
         },
         "description": {
           "type": "description",
           "settings": {
-            "collapse_content": true,
+            "collapse_content": false,
             "show_below_gallery": false
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
           }
         },
         "payment_terms": {
@@ -42,13 +37,31 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_type": "block",
-            "color_selector_type": "color",
+            "color_selector_type": "block_swatch",
             "size_chart_page": ""
+          }
+        },
+        "text_kGaGMq": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Quantity:<\/strong><\/em><\/p>"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "text_HHgnKF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join our subscription plan for an estimated <strong>$120 in annual savings.<\/strong><\/p>"
+          }
+        },
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "buy_buttons": {
@@ -62,27 +75,61 @@
             "payment_button_text_color": ""
           }
         },
-        "dd192a49-58d5-4405-a2d1-1de032a3e3cb": {
-          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+        "accordion_6ayrf9": {
+          "type": "accordion",
           "settings": {
-            "product": "{{product}}"
+            "show_below_gallery": false,
+            "icon": "none",
+            "custom_icon": "shopify:\/\/shop_images\/Leaf.svg",
+            "title": "Key Ingredients",
+            "content": "<p>Ingredients recognized as safe by the FDA:<\/p><ul><li><strong>Hydrogenated Water: <\/strong>Increases anti-inflamatory and antioxidant properties in water<\/li><li><strong>Naturally-Mined Trisodium Phosphate:<\/strong> Approved by the FDA, the additive is often found in meat, cheese, and baked goods<\/li><li><strong>Naturally-Mined Sodium Carbonate:<\/strong> Neutralizes gastric acid thereby acting as an antacid<\/li><li><strong>Naturally-Mined Sodium Bicarbonate: <\/strong>A natural antacid that helps with heartburn, digestion, and more<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_GP8teG": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "custom_icon": "shopify:\/\/shop_images\/benifits.svg",
+            "title": "Benefits",
+            "content": "<p>Ingredients recognized as safe by the FDA:<\/p><ul><li><strong>Hydrogenated Water: <\/strong>Increases anti-inflamatory and antioxidant properties in water<\/li><li><strong>Naturally-Mined Trisodium Phosphate:<\/strong> Approved by the FDA, the additive is often found in meat, cheese, and baked goods<\/li><li><strong>Naturally-Mined Sodium Carbonate:<\/strong> Neutralizes gastric acid thereby acting as an antacid<\/li><li><strong>Naturally-Mined Sodium Bicarbonate: <\/strong>A natural antacid that helps with heartburn, digestion, and more<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_KBNUcr": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "custom_icon": "shopify:\/\/shop_images\/directions.svg",
+            "title": "Directions & Usage Tips",
+            "content": "<p>Ingredients recognized as safe by the FDA:<\/p><ul><li><strong>Hydrogenated Water: <\/strong>Increases anti-inflamatory and antioxidant properties in water<\/li><li><strong>Naturally-Mined Trisodium Phosphate:<\/strong> Approved by the FDA, the additive is often found in meat, cheese, and baked goods<\/li><li><strong>Naturally-Mined Sodium Carbonate:<\/strong> Neutralizes gastric acid thereby acting as an antacid<\/li><li><strong>Naturally-Mined Sodium Bicarbonate: <\/strong>A natural antacid that helps with heartburn, digestion, and more<\/li><\/ul>",
+            "liquid": "",
+            "page": ""
           }
         }
       },
       "block_order": [
         "title",
-        "judge_me_reviews_preview_badge_rHtAfh",
-        "description",
         "price",
+        "description",
         "payment_terms",
         "separator",
         "variant_picker",
+        "text_kGaGMq",
         "quantity_selector",
+        "text_HHgnKF",
+        "dd192a49-58d5-4405-a2d1-1de032a3e3cb",
         "buy_buttons",
-        "dd192a49-58d5-4405-a2d1-1de032a3e3cb"
+        "accordion_6ayrf9",
+        "accordion_GP8teG",
+        "accordion_KBNUcr"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "container_size": "full",
         "product_info_size": 60,
         "show_sticky_add_to_cart": true,
