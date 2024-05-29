@@ -143,51 +143,22 @@
         "max_image_zoom_level": 3
       }
     },
-    "rich_text_LWMpiq": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_V8nzyB": {
-          "type": "subheading",
-          "settings": {
-            "text": "Balance7: Taste Your Health"
-          }
-        },
-        "heading_brRDV7": {
-          "type": "heading",
-          "settings": {
-            "text": "What Does Balance7's Taste Tell You About Your Health?",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_EmRaYj": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Balance7 offers more than just a supplement; its taste may hold the key to understanding your body's pH balance and overall health. As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p>"
-          }
-        },
-        "button_rCBBDt": {
-          "type": "button",
-          "settings": {
-            "style": "solid",
-            "text": "Learn More",
-            "url": "shopify:\/\/blogs\/news\/balancing-act",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_V8nzyB",
-        "heading_brRDV7",
-        "richtext_EmRaYj",
-        "button_rCBBDt"
-      ],
+    "landing_product_test_DPfVH8": {
+      "type": "landing-product-test",
       "settings": {
-        "color_scheme": "scheme-e6a411d7-ac77-46c2-b9de-53ba11f5c1ce",
-        "separate_section_with_border": true,
-        "content_width": "lg",
-        "text_position": "center",
-        "remove_vertical_spacing": false
+        "slug_icon": "shopify:\/\/shop_images\/bicon3.svg",
+        "section_title": "What does Balance7’s taste tell you about your health?",
+        "section_description": "<p>As surprising as it may seem, the taste of Balance7 can provide valuable insights into the state of your internal environment.<\/p><p>If your palate detects a bitter or salty taste when consuming Balance7, it could signal that your body is leaning towards acidity. This acidic imbalance, known as acidosis, can lead to a myriad of health issues, including joint pain, headaches, digestion problems, fatigue, memory issues, and sleep disturbances.<\/p><p>As Balance7 works its magic, over time your pH levels will optimize and the bitter taste will lessen.<\/p>",
+        "test_image": "shopify:\/\/shop_images\/taste.jpg",
+        "list_icon_one": "shopify:\/\/shop_images\/react1.svg",
+        "list_icon_two": "shopify:\/\/shop_images\/react2.svg",
+        "acidic_title": "",
+        "neutral_title": "",
+        "test_one": "3",
+        "test_two": "4",
+        "test_three": "5",
+        "test_four": "6",
+        "test_five": "7"
       }
     },
     "1704926942babb0c6a": {
@@ -209,6 +180,85 @@
         "remove_horizontal_spacing": false
       }
     },
+    "landing_testimonail_mRU3Lc": {
+      "type": "landing-testimonail",
+      "settings": {
+        "video_thumbnail": "shopify:\/\/shop_images\/Screenshot_2024-05-28_at_6.53.18_PM.png",
+        "video_link": "https:\/\/youtu.be\/qAl6wCaIbNg?si=W284VIMHhD9WCQQe",
+        "section_slug": "Watch: Valerie Mercado",
+        "section_title": "Valerie Mercado - Covid Survivor",
+        "section_description": "With the help of Balance7™, Denise is here today. She is NOT a paid actor.",
+        "button_text": "Watch Testimonials",
+        "button_link": "shopify:\/\/pages\/testimonials-balance7",
+        "testimonial_text": "View More Testimonials",
+        "testimonial_description": "Explore firsthand accounts of transformation and wellness through our curated YouTube playlist of testimonials. Witness the powerful impact of Balance7 on individuals just like you.",
+        "testimonial_style": "style-1"
+      }
+    },
+    "landing_behind_section_da4EUp": {
+      "type": "landing-behind-section",
+      "blocks": {
+        "block_qb9dNd": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/4_b415bb38-0acb-4a43-9795-5cf485043837.png",
+            "title": "Alkalinity vs. Acidity",
+            "description": "Balance7™ shifts your body from an acidic state prone to inflammation, to an alkaline state that promotes health and vitality."
+          }
+        },
+        "block_ayrfFn": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/5_c633125e-a74d-4185-85c2-ee0ce35b00f9.png",
+            "title": "Immune System Activation",
+            "description": "By adjusting your body's pH levels, Balance7™ primes your immune system to better defend against illnesses."
+          }
+        },
+        "block_LEemgk": {
+          "type": "block",
+          "settings": {
+            "thumbnail_image": "shopify:\/\/shop_images\/5_993a18f6-2190-4132-97c3-6d9baf04e2b3.png",
+            "title": "Natural Ingredients",
+            "description": "Comprising only FDA-recognized, safe, naturally mined ingredients, Balance7™ ensures you're nurturing your body without any harmful effects."
+          }
+        }
+      },
+      "block_order": [
+        "block_qb9dNd",
+        "block_ayrfFn",
+        "block_LEemgk"
+      ],
+      "settings": {
+        "section_title": "The Science Behind Balance7"
+      }
+    },
+    "landing_balance_two_7tF4gp": {
+      "type": "landing-balance-two",
+      "blocks": {
+        "block_jrrN76": {
+          "type": "block",
+          "settings": {
+            "item_item": "01",
+            "feature_title": "Hydrogenated water",
+            "feature_description": "Increases anti-inflamatory and antioxidant properties in water"
+          }
+        }
+      },
+      "block_order": [
+        "block_jrrN76"
+      ],
+      "settings": {
+        "video_thumbnail": "shopify:\/\/shop_images\/video.png",
+        "video_link": "https:\/\/youtu.be\/bBWFv5ylGog?si=A2AszbTtXHG84vQp",
+        "section_slug": "<p><strong>Watch:<\/strong> How Does Balance7™ Work?<\/p>",
+        "section_title": "What is in Balance7™?",
+        "content_slug": "A message from Dr. Ahmad Nooristani, MD & CEO",
+        "content_title": "The Silent Enemy: Chronic Inflammation",
+        "section_description": "<p>In the fast-paced rhythm of today’s life, stress, dietary choices, and pollutants push our bodies into an acidic state, fueling chronic inflammation and weakening our immune systems. This can lead to a myriad of health issues, from everyday fatigue and fog to more significant conditions.<\/p><p>As the CEO of Balance7, I’m excited to share with you our science-backed solution tailored to address these very challenges. Balance7 stands out by effectively alkalizing your body, neutralizing excess acidity, and enhancing the resilience of your immune system. It represents more than just a health supplement; it's a beacon for those seeking to revitalize their health and embrace a life of vitality and well-being.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -225,65 +275,15 @@
         "title": "Related products",
         "content": ""
       }
-    },
-    "rich_text_63x4it": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_aN6jGp": {
-          "type": "subheading",
-          "settings": {
-            "text": "DR. NOORISTANI, M.D. PRESENTS"
-          }
-        },
-        "heading_Apeq33": {
-          "type": "heading",
-          "settings": {
-            "text": "How does Balance7™ work?",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_aN6jGp",
-        "heading_Apeq33"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
-    "video_Wtdwac": {
-      "type": "video",
-      "blocks": {
-        "play_hizdXj": {
-          "type": "play",
-          "settings": {
-            "icon_color": "#0437f2"
-          }
-        }
-      },
-      "block_order": [
-        "play_hizdXj"
-      ],
-      "settings": {
-        "autoplay": false,
-        "show_controls": true,
-        "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/Your Health Balance 7.2_1min.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "main",
-    "rich_text_LWMpiq",
+    "landing_product_test_DPfVH8",
     "1704926942babb0c6a",
-    "related-products",
-    "rich_text_63x4it",
-    "video_Wtdwac"
+    "landing_testimonail_mRU3Lc",
+    "landing_behind_section_da4EUp",
+    "landing_balance_two_7tF4gp",
+    "related-products"
   ]
 }

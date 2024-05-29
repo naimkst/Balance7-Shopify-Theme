@@ -14,12 +14,14 @@
 
       {% for block in section.blocks %}
         <div class="details-item">
-          <div class="row align-items-center">
+          <div class="row align-items-end">
             <div class="col-lg-6">
               <div class="details-content wow fadeInLeftSlow" data-wow-duration="{{ forloop.index |  plus: 1 }}000ms">
                 <h2>{{ block.settings.feature_title }}</h2>
                 {{ block.settings.feature_description }}
-                <a href="{{ block.settings.url }}">{{ block.settings.link_text }}</a>
+                {% if block.settings.link_text != blank %}
+                  <a href="{{ block.settings.url }}">{{ block.settings.link_text }}</a>
+                {% endif %}
               </div>
             </div>
             <div class="col-lg-6">

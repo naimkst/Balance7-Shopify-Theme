@@ -87,20 +87,26 @@
   transition: 0.5s;
   z-index: -1;
 }
-.theme-btn:hover, .theme-btn:focus, .theme-btn:active,
+.theme-btn:hover,
+.theme-btn:focus,
+.theme-btn:active,
 .theme-btn-s2:hover,
 .theme-btn-s2:focus,
 .theme-btn-s2:active {
   background-color: #051c6e;
   color: #fff;
 }
-.theme-btn:hover:before, .theme-btn:focus:before, .theme-btn:active:before,
+.theme-btn:hover:before,
+.theme-btn:focus:before,
+.theme-btn:active:before,
 .theme-btn-s2:hover:before,
 .theme-btn-s2:focus:before,
 .theme-btn-s2:active:before {
   transform: scaleX(0);
 }
-.theme-btn:hover:after, .theme-btn:focus:after, .theme-btn:active:after,
+.theme-btn:hover:after,
+.theme-btn:focus:after,
+.theme-btn:active:after,
 .theme-btn-s2:hover:after,
 .theme-btn-s2:focus:after,
 .theme-btn-s2:active:after {
@@ -127,7 +133,9 @@
 .theme-btn-s2:before {
   background: #b3fe05;
 }
-.theme-btn-s2:hover, .theme-btn-s2:focus, .theme-btn-s2:active {
+.theme-btn-s2:hover,
+.theme-btn-s2:focus,
+.theme-btn-s2:active {
   background-color: #9ad90a;
   color: #fff;
 }
@@ -371,11 +379,19 @@
   margin: 0 auto;
   margin-bottom: 37px;
 }
-.benefits-area .benefits-wrap .benefits-item .benefits-content .benefits-content-inner {
+.benefits-area
+  .benefits-wrap
+  .benefits-item
+  .benefits-content
+  .benefits-content-inner {
   max-width: 155px;
 }
 @media (max-width: 767px) {
-  .benefits-area .benefits-wrap .benefits-item .benefits-content .benefits-content-inner {
+  .benefits-area
+    .benefits-wrap
+    .benefits-item
+    .benefits-content
+    .benefits-content-inner {
     margin: 0 auto;
   }
 }
@@ -509,7 +525,7 @@
   .testimonial-area .testimonial-wrap .testimonial-img .t-bg {
     min-height: 450px;
     -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
   }
 }
 @media (max-width: 991px) {
@@ -553,12 +569,24 @@
 .testimonial-area .testimonial-wrap .testimonial-img .testimonial-text p {
   color: #fff;
 }
-.testimonial-area .testimonial-wrap .testimonial-img .testimonial-text .video ul {
+.testimonial-area
+  .testimonial-wrap
+  .testimonial-img
+  .testimonial-text
+  .video
+  ul {
   display: flex;
   align-items: center;
   margin-top: 20px;
 }
-.testimonial-area .testimonial-wrap .testimonial-img .testimonial-text .video ul li + li {
+.testimonial-area
+  .testimonial-wrap
+  .testimonial-img
+  .testimonial-text
+  .video
+  ul
+  li
+  + li {
   margin-left: 10px;
   color: #fff;
 }
@@ -776,7 +804,10 @@
   flex-basis: 100%;
   text-align: left;
 }
-.benefits-area.style-2 .benefits-item .benefits-content .benefits-content-inner {
+.benefits-area.style-2
+  .benefits-item
+  .benefits-content
+  .benefits-content-inner {
   max-width: 100%;
 }
 .benefits-area.style-2 .benefits-item .benefits-content h3 {
@@ -1323,7 +1354,10 @@
   padding-right: 30px;
 }
 @media (max-width: 991px) {
-  .testimonial-area.style-3 .testimonial-wrap .testimonial-img .testimonial-text {
+  .testimonial-area.style-3
+    .testimonial-wrap
+    .testimonial-img
+    .testimonial-text {
     padding: 30px 15px;
   }
 }
@@ -1371,7 +1405,7 @@ product-gallery-navigation {
   height: 60px !important;
 }
 
-.product-gallery__thumbnail[aria-current=true] {
+.product-gallery__thumbnail[aria-current="true"] {
   border-color: #5a31f4;
   border-width: 2px;
   border-radius: 5px;
@@ -1486,4 +1520,124 @@ details.accordion.group .text-with-icon {
 
 details.accordion.group .text-with-icon img {
   width: 30px;
-}/*# sourceMappingURL=custom.css.map */
+}
+/*---------------------------
+	latest css add 29-05-2024
+----------------------------*/
+.hero-area.style-3 {
+  padding-bottom: 20px;
+  padding-top: 60px;
+}
+@media (max-width: 575px) {
+  .hero-area.style-3 {
+    padding-top: 30px;
+  }
+}
+.hero-area.style-3 .hero-text {
+  padding-left: 0;
+  padding-top: 0;
+}
+.hero-area.style-3 .hero-text h1 {
+  margin-bottom: 0;
+}
+.hero-area.style-3 .hero-text p {
+  max-width: 568px;
+}
+.hero-area.style-3 .hero-inner-wrap {
+  max-width: 1270px;
+  margin: 0 auto;
+}
+.hero-area.style-3 .hero-inner-wrap .hero-right-img-wrap .hero-right-text {
+  flex-basis: 50%;
+}
+@media (max-width: 575px) {
+  .hero-area.style-3 .hero-inner-wrap .hero-right-img-wrap .hero-right-text {
+    flex-basis: 80%;
+  }
+}
+
+.product-area .section-title {
+  max-width: 765px;
+  margin: 0 auto;
+}
+
+.grid-testimonial .grid-testimonial-wrap {
+  background: #021c79;
+  margin-bottom: 25px;
+}
+@media (max-width: 991px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-img img {
+    width: 100%;
+  }
+}
+.grid-testimonial .grid-testimonial-wrap .grid-testimonial-text {
+  padding: 58px 92px 38px;
+}
+@media (max-width: 1199px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-text {
+    padding: 28px 32px 20px;
+  }
+}
+@media (max-width: 575px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-text {
+    padding: 28px 15px 20px;
+  }
+}
+.grid-testimonial .grid-testimonial-wrap .grid-testimonial-text .icon {
+  margin-bottom: 20px;
+}
+.grid-testimonial .grid-testimonial-wrap .grid-testimonial-text p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 34px;
+}
+@media (max-width: 1199px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-text p {
+    font-size: 18px;
+  }
+}
+@media (max-width: 575px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-text p {
+    margin-bottom: 20px;
+  }
+}
+.grid-testimonial .grid-testimonial-wrap .grid-testimonial-text span {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 21px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+@media (max-width: 575px) {
+  .grid-testimonial .grid-testimonial-wrap .grid-testimonial-text span {
+    font-size: 18px;
+  }
+}
+
+.details-area .details-wrap {
+  border-radius: 10px;
+}
+.details-area .details-wrap .details-img {
+  border-radius: 10px;
+}
+.details-area .details-wrap .details-img img {
+  min-height: 440px;
+  max-height: 440px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+@media (max-width: 991px) {
+  .details-area .details-wrap .details-img img {
+    min-height: 100%;
+    max-height: 100%;
+  }
+}
+.details-area .details-wrap ul {
+  list-style: unset;
+}
+/*# sourceMappingURL=custom.css.map */

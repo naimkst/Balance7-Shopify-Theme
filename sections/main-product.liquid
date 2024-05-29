@@ -40,7 +40,7 @@
 {%- assign color_scheme_hash = section.settings.color_scheme.settings.background_gradient | default: section.settings.color_scheme.settings.background | md5 -%}
 
 <div class="section-spacing section-spacing--tight color-scheme color-scheme--{{ section.settings.color_scheme.id }} color-scheme--bg-{{ color_scheme_hash }}">
-  <div class="container-bt {% unless section.settings.container_size == 'full' %}container--{{ section.settings.container_size }}{% endunless %}">
+  <div class="container {% unless section.settings.container_size == 'full' %}container--{{ section.settings.container_size }}{% endunless %}">
     <div class="product">
       {%- if product.media.size > 0 -%}
         {%- render 'product-gallery',

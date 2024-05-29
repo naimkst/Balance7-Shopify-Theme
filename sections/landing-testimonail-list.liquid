@@ -1,0 +1,74 @@
+<div class="b-section grid-testimonial section-padding">
+  <div class="container">
+    {% for block in section.blocks %}
+      <div class="grid-testimonial-wrap">
+        <div class="row align-items-center">
+          <div class="col-lg-6 col-12">
+            <div class="grid-testimonial-img">
+              <img
+                src="{{ block.settings.testimonial_image |  image_url: width: 900 }}"
+                alt=""
+                width=""
+                height="">
+            </div>
+          </div>
+          <div class="col-lg-6 col-12">
+            <div class="grid-testimonial-text">
+              <div class="icon">
+                <img
+                  src="{{ "quote.svg" | asset_url }}"
+                  alt=""
+                  width=""
+                  height="">
+              </div>
+              <p>{{ block.settings.testimonail_description }}</p>
+              <span>{{ block.settings.testimonial_name }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Landing Testimonial List",
+    "settings": [],
+    "blocks": [
+      {
+        "name": "Add Testimonial",
+        "type": "block",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "testimonial_image",
+            "label": "Testimonial Image"
+          }, {
+            "type": "text",
+            "id": "testimonial_name",
+            "label": "Testimonial Name",
+            "default": "Valerie Mercado"
+          }, {
+            "type": "text",
+            "id": "testimonail_description",
+            "label": "Testimonail Description",
+            "default": "I have since recommended it to my mom, family, and co-workers... It also helps when you know an actual doctor endorses the product. Living the Balance7 Life, which means longer and healthier!"
+          }
+        ]
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "Landing Testimonial List",
+        "blocks": [
+          {
+            "type": "block"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

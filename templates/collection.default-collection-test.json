@@ -1,5 +1,21 @@
 {
   "sections": {
+    "landing_product_hero_xntEQ6": {
+      "type": "landing-product-hero",
+      "settings": {
+        "slug_icon": "shopify:\/\/shop_images\/tt.png",
+        "slug_title": "SEE RESULTS IN 3 DAYS",
+        "section_title": "Alkaline pH Balance Supplements",
+        "section_subtitle": "Products",
+        "section_description": "With Balance7™, experience the resurgence of your immune system, your body's natural defense against illness.",
+        "product_title": "11-Day Starter Kit",
+        "product_price": "$34.99",
+        "product_price2": "$65.99",
+        "featured_image": "shopify:\/\/shop_images\/hero-right.png",
+        "button_text": "Shop Now",
+        "button_link": ""
+      }
+    },
     "slideshow_BN8t63": {
       "type": "slideshow",
       "settings": {
@@ -11,81 +27,6 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
-      }
-    },
-    "rich_text_WTFp3T": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_rnT3WX": {
-          "type": "heading",
-          "settings": {
-            "text": "#1 Alkaline Concentrate Supplement",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rnT3WX"
-      ],
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": true
-      }
-    },
-    "image_with_text_qYBUam": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_YTBEXT": {
-          "type": "subheading",
-          "settings": {
-            "text": "<strong>Alkaline pH Balance Supplements<\/strong>"
-          }
-        },
-        "heading_PkwJ4J": {
-          "type": "heading",
-          "settings": {
-            "text": "Products",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_LkG9ce": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>With Balance7™, experience the resurgence of your immune system, your body's natural defense against illness.<\/p>"
-          }
-        },
-        "button_qamDPi": {
-          "type": "button",
-          "settings": {
-            "style": "solid",
-            "text": "Buy Now",
-            "url": "",
-            "background": "#77ff4e",
-            "text_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_YTBEXT",
-        "heading_PkwJ4J",
-        "richtext_LkG9ce",
-        "button_qamDPi"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "image": "shopify:\/\/shop_images\/11day_2.png",
-        "reveal_on_scroll": true,
-        "image_position": "end",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
       }
     },
     "collection-banner": {
@@ -157,19 +98,19 @@
         "products_per_page": 46,
         "products_per_row_mobile": "2",
         "products_size_desktop": "medium",
-        "show_grid_mode_selector": true,
+        "show_grid_mode_selector": false,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "filter_layout": "drawer",
         "quick_links_menu": "",
-        "show_sort_by": true,
-        "show_filters": true,
-        "show_results_count": true,
-        "show_filter_group_name": true,
+        "show_sort_by": false,
+        "show_filters": false,
+        "show_results_count": false,
+        "show_filter_group_name": false,
         "show_empty_filter_values": true,
         "show_filter_values_count": true,
         "show_color_swatch": true,
-        "open_filters_by_default": true
+        "open_filters_by_default": false
       }
     },
     "rich_text_eLEjq3": {
@@ -412,9 +353,8 @@
     }
   },
   "order": [
+    "landing_product_hero_xntEQ6",
     "slideshow_BN8t63",
-    "rich_text_WTFp3T",
-    "image_with_text_qYBUam",
     "collection-banner",
     "rich_text_kM9T8m",
     "main",
